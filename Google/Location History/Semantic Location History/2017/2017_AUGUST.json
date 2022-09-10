@@ -1,0 +1,751 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339423,
+        "longitudeE7": -923879449
+      },
+      "endLocation": {
+        "latitudeE7": 389088967,
+        "longitudeE7": -923382532
+      },
+      "duration": {
+        "startTimestamp": "2017-08-07T09:09:25.385Z",
+        "endTimestamp": "2017-08-07T22:40:57.066Z"
+      },
+      "distance": 5122,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 73.51385364571036
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.289394571922767
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.2944754703660215
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389338302,
+          "lngE7": -923881072
+        }, {
+          "latE7": 389090919,
+          "lngE7": -923380126
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389087195,
+        "longitudeE7": -923382457,
+        "placeId": "ChIJnVMHQxy33IcRc8EoeUAf97E",
+        "address": "110 E Nifong Blvd, Columbia, Missouri 65203, United States",
+        "name": "Break Time",
+        "sourceInfo": {
+          "deviceTag": -437995110
+        },
+        "locationConfidence": 62.33453,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-08-07T22:40:57.066Z",
+        "endTimestamp": "2017-08-07T22:56:41.799Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 389087195,
+          "longitudeE7": -923382457,
+          "placeId": "ChIJnVMHQxy33IcR287YWz8X2_U",
+          "address": "110 E Nifong Blvd, Columbia, MO 65203, United States",
+          "name": "Jiffy Lube",
+          "sourceInfo": {
+            "deviceTag": -437995110
+          },
+          "locationConfidence": 57.508118,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-08-07T22:40:57.066Z",
+          "endTimestamp": "2017-08-07T22:56:41.799Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 389088567,
+        "centerLngE7": -923381733,
+        "visitConfidence": 93,
+        "otherCandidateLocations": [{
+          "latitudeE7": 389093941,
+          "longitudeE7": -923377051,
+          "placeId": "ChIJP-mOYxy33IcRg1qLNMQYJz0",
+          "address": "200 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Lutz\u0027s BBQ",
+          "locationConfidence": 0.9609333
+        }, {
+          "latitudeE7": 389087644,
+          "longitudeE7": -923366081,
+          "placeId": "ChIJyUTqhhu33IcRmbd4Bo_csVw",
+          "address": "128 E Nifong Blvd ste e, Columbia, MO 65203, USA",
+          "name": "Yin Yang Night Club",
+          "locationConfidence": 0.7675554
+        }, {
+          "latitudeE7": 389093830,
+          "longitudeE7": -923358180,
+          "placeId": "ChIJdW-_nRu33IcRFKd36yAnsds",
+          "address": "209 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Panera Bread",
+          "locationConfidence": 0.5285499
+        }, {
+          "latitudeE7": 389087390,
+          "longitudeE7": -923383620,
+          "placeId": "ChIJnVMHQxy33IcRlNIFG1Sx5HY",
+          "address": "3200 E Stadium Blvd, Columbia, MO 65203, USA",
+          "name": "Dashboard Diner",
+          "locationConfidence": 0.3224787,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 389089826,
+          "longitudeE7": -923373210,
+          "placeId": "ChIJh2X3dhy33IcRHbW1IZ-H0b4",
+          "address": "124 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "B\u0026B Bagel Company",
+          "locationConfidence": 0.27490464
+        }, {
+          "latitudeE7": 389099161,
+          "longitudeE7": -923384315,
+          "placeId": "ChIJyQVm8xy33IcRWQKPrBGL_Jk",
+          "address": "101 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Phillips 66",
+          "locationConfidence": 0.2313002
+        }, {
+          "latitudeE7": 389110678,
+          "longitudeE7": -923367646,
+          "placeId": "ChIJOf7eXBu33IcR0dRH4sdAHUw",
+          "address": "205 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Gerbes",
+          "locationConfidence": 0.19056302
+        }, {
+          "latitudeE7": 389080654,
+          "longitudeE7": -923373018,
+          "placeId": "ChIJVbVGYBy33IcRCV31-PbWy_c",
+          "address": "501 Fay St Suite 112, Columbia, MO 65201, USA",
+          "name": "Peachtree Catering \u0026 Banquet",
+          "locationConfidence": 0.102422915
+        }, {
+          "latitudeE7": 389083830,
+          "longitudeE7": -923377400,
+          "placeId": "ChIJ7axXaRy33IcRdh8pz1yXzZA",
+          "address": "120 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Osaka Japanese restaurant",
+          "locationConfidence": 0.101131596
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 41,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 389088567,
+      "centerLngE7": -923381733,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389089661,
+        "longitudeE7": -923385086,
+        "placeId": "ChIJAVIXQxy33IcRd3wAp627Sko",
+        "address": "110 E Nifong Blvd, Columbia, MO 65203, USA",
+        "locationConfidence": 35.039474,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 389093941,
+        "longitudeE7": -923377051,
+        "placeId": "ChIJP-mOYxy33IcRg1qLNMQYJz0",
+        "address": "200 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Lutz\u0027s BBQ",
+        "locationConfidence": 0.567305
+      }, {
+        "latitudeE7": 389087644,
+        "longitudeE7": -923366081,
+        "placeId": "ChIJyUTqhhu33IcRmbd4Bo_csVw",
+        "address": "128 E Nifong Blvd ste e, Columbia, MO 65203, USA",
+        "name": "Yin Yang Night Club",
+        "locationConfidence": 0.45314074
+      }, {
+        "latitudeE7": 389093830,
+        "longitudeE7": -923358180,
+        "placeId": "ChIJdW-_nRu33IcRFKd36yAnsds",
+        "address": "209 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Panera Bread",
+        "locationConfidence": 0.31203935
+      }, {
+        "latitudeE7": 389089826,
+        "longitudeE7": -923373210,
+        "placeId": "ChIJh2X3dhy33IcRHbW1IZ-H0b4",
+        "address": "124 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "B\u0026B Bagel Company",
+        "locationConfidence": 0.1622951
+      }, {
+        "latitudeE7": 389099161,
+        "longitudeE7": -923384315,
+        "placeId": "ChIJyQVm8xy33IcRWQKPrBGL_Jk",
+        "address": "101 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Phillips 66",
+        "locationConfidence": 0.13655241
+      }, {
+        "latitudeE7": 389110678,
+        "longitudeE7": -923367646,
+        "placeId": "ChIJOf7eXBu33IcR0dRH4sdAHUw",
+        "address": "205 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Gerbes",
+        "locationConfidence": 0.112502456
+      }, {
+        "latitudeE7": 389080654,
+        "longitudeE7": -923373018,
+        "placeId": "ChIJVbVGYBy33IcRCV31-PbWy_c",
+        "address": "501 Fay St Suite 112, Columbia, MO 65201, USA",
+        "name": "Peachtree Catering \u0026 Banquet",
+        "locationConfidence": 0.060467288
+      }, {
+        "latitudeE7": 389083830,
+        "longitudeE7": -923377400,
+        "placeId": "ChIJ7axXaRy33IcRdh8pz1yXzZA",
+        "address": "120 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Osaka Japanese restaurant",
+        "locationConfidence": 0.05970493
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389592043,
+        "longitudeE7": -923718425
+      },
+      "endLocation": {
+        "latitudeE7": 389339341,
+        "longitudeE7": -923877398
+      },
+      "duration": {
+        "startTimestamp": "2017-08-09T19:18:32.377Z",
+        "endTimestamp": "2017-08-09T19:46:23.071Z"
+      },
+      "distance": 3128,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 90.01627952321431
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.411042795952687
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.74362238881186
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389592056,
+          "lngE7": -923718185
+        }, {
+          "latE7": 389337463,
+          "lngE7": -923876266
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339523,
+        "longitudeE7": -923879318,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203, USA",
+        "sourceInfo": {
+          "deviceTag": -437995110
+        },
+        "locationConfidence": 92.39204
+      },
+      "duration": {
+        "startTimestamp": "2017-08-09T19:46:23.071Z",
+        "endTimestamp": "2017-08-09T21:24:36.808Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 389339100,
+      "centerLngE7": -923878300,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 6.3174405
+      }, {
+        "latitudeE7": 389341890,
+        "longitudeE7": -923881220,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 0.78313994
+      }, {
+        "latitudeE7": 389337193,
+        "longitudeE7": -923853732,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.3145201
+      }, {
+        "latitudeE7": 390667048,
+        "longitudeE7": -924208883,
+        "placeId": "ChIJz1BQmXfK3IcRd0cV5WV1De4",
+        "address": "Perche Creek, Missouri, USA",
+        "name": "Perche Creek",
+        "locationConfidence": 0.17710578,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 389334300,
+        "longitudeE7": -923907870,
+        "placeId": "ChIJObe01se13IcRixmkE8OZE6Y",
+        "address": "3211 S Providence Rd #111, Columbia, MO 65203, USA",
+        "name": "Downes Productions",
+        "locationConfidence": 0.015757922
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339100,
+        "longitudeE7": -923878300
+      },
+      "endLocation": {
+        "latitudeE7": 389513782,
+        "longitudeE7": -923279380
+      },
+      "duration": {
+        "startTimestamp": "2017-08-09T21:24:36.808Z",
+        "endTimestamp": "2017-08-17T05:14:06.341Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389088679,
+          "lngE7": -923385513,
+          "accuracyMeters": 30,
+          "timestamp": "2017-08-15T07:48:27.999Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 9914.503435211349
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389513782,
+        "longitudeE7": -923279380
+      },
+      "endLocation": {
+        "latitudeE7": 389508288,
+        "longitudeE7": -923328004
+      },
+      "duration": {
+        "startTimestamp": "2017-08-17T05:14:06.341Z",
+        "endTimestamp": "2017-08-17T05:19:52.983Z"
+      },
+      "distance": 428,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 52.089557624437575
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 31.22327096475852
+      }, {
+        "activityType": "CYCLING",
+        "probability": 15.047309227605188
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389515037,
+          "lngE7": -923279266
+        }, {
+          "latE7": 389508323,
+          "lngE7": -923329849
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 520.7483346791363,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389508227,
+        "longitudeE7": -923326843,
+        "placeId": "ChIJRZv-nc-33IcRYIp0xSUu9Bk",
+        "address": "22 S 4th St, Columbia, Missouri 65201, United States",
+        "name": "Broadway Diner",
+        "sourceInfo": {
+          "deviceTag": -437995110
+        },
+        "locationConfidence": 95.43511
+      },
+      "duration": {
+        "startTimestamp": "2017-08-17T05:19:52.983Z",
+        "endTimestamp": "2017-08-17T07:59:02.751Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 389508000,
+      "centerLngE7": -923328200,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389512593,
+        "longitudeE7": -923325935,
+        "placeId": "ChIJPcV4d8-33IcRT7MDdfcUmRQ",
+        "address": "402 E Broadway, Columbia, MO 65201, USA",
+        "name": "Shiloh Bar \u0026 Grill",
+        "locationConfidence": 3.851041
+      }, {
+        "latitudeE7": 389508289,
+        "longitudeE7": -923326867,
+        "placeId": "ChIJNz8ScM-33IcRVVPBohvfiqw",
+        "address": "22 S 4th St, Columbia, MO 65201, USA",
+        "locationConfidence": 0.16449654
+      }, {
+        "latitudeE7": 389501390,
+        "longitudeE7": -923320310,
+        "placeId": "ChIJ34KrisW33IcRdVRBVG0IFrA",
+        "address": "115 S 5th St, Columbia, MO 65201, USA",
+        "name": "Flat Branch Pub \u0026 Brewing",
+        "locationConfidence": 0.1288001
+      }, {
+        "latitudeE7": 389403808,
+        "longitudeE7": -923277375,
+        "placeId": "ChIJOYftBZW33IcRSPsHnDIFg8E",
+        "address": "Columbia, MO 65211, USA",
+        "name": "University of Missouri",
+        "locationConfidence": 0.06997592
+      }, {
+        "latitudeE7": 389517053,
+        "longitudeE7": -923340724,
+        "placeId": "ChIJyc8yqc-33IcROTloF357Erg",
+        "name": "Literacy Action Corps",
+        "locationConfidence": 0.046699554
+      }, {
+        "latitudeE7": 389511623,
+        "longitudeE7": -923329911,
+        "placeId": "ChIJf0IldM-33IcRdH9-aPzGeyw",
+        "name": "Real Estate Management",
+        "locationConfidence": 0.03506417
+      }, {
+        "latitudeE7": 389510060,
+        "longitudeE7": -923344746,
+        "placeId": "ChIJlzYQ_s633IcR7IT-Vv3s-c8",
+        "address": "222 E Broadway, Columbia, MO 65203, USA",
+        "name": "Walgreens",
+        "locationConfidence": 0.019809106
+      }, {
+        "latitudeE7": 389489555,
+        "longitudeE7": -923331023,
+        "placeId": "ChIJ0y-GTM-33IcRADpP1sUEUwc",
+        "address": "300 S Providence Rd, Columbia, MO 65203, USA",
+        "name": "Flat Branch Park",
+        "locationConfidence": 0.013641883
+      }, {
+        "latitudeE7": 389512467,
+        "longitudeE7": -923294611,
+        "placeId": "ChIJR551AMW33IcRIKYpeYKfZqY",
+        "address": "12 S 7th St, Columbia, MO 65201, USA",
+        "name": "Snapper\u0027s",
+        "locationConfidence": 0.012942437
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 83,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389506996,
+        "longitudeE7": -923327866
+      },
+      "endLocation": {
+        "latitudeE7": 389339150,
+        "longitudeE7": -923879310
+      },
+      "duration": {
+        "startTimestamp": "2017-08-17T07:59:02.751Z",
+        "endTimestamp": "2017-08-18T02:27:30.286Z"
+      },
+      "distance": 7857,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 93.36069812172016
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.471523219269176
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5067153152125355
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389505767,
+          "lngE7": -923327941
+        }, {
+          "latE7": 389338073,
+          "lngE7": -923880767
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389339150,
+          "longitudeE7": -923879310
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-08-18T02:27:30.286Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339523,
+        "longitudeE7": -923879318,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203, USA",
+        "sourceInfo": {
+          "deviceTag": -437995110
+        },
+        "locationConfidence": 94.16927
+      },
+      "duration": {
+        "startTimestamp": "2017-08-18T02:27:30.286Z",
+        "endTimestamp": "2017-08-18T04:42:10.954Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 389338933,
+      "centerLngE7": -923879167,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 4.7931004
+      }, {
+        "latitudeE7": 389341890,
+        "longitudeE7": -923881220,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 0.6002607
+      }, {
+        "latitudeE7": 389337193,
+        "longitudeE7": -923853732,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.3160344
+      }, {
+        "latitudeE7": 390667048,
+        "longitudeE7": -924208883,
+        "placeId": "ChIJz1BQmXfK3IcRd0cV5WV1De4",
+        "address": "Perche Creek, Missouri, USA",
+        "name": "Perche Creek",
+        "locationConfidence": 0.10945955,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 389334300,
+        "longitudeE7": -923907870,
+        "placeId": "ChIJObe01se13IcRixmkE8OZE6Y",
+        "address": "3211 S Providence Rd #111, Columbia, MO 65203, USA",
+        "name": "Downes Productions",
+        "locationConfidence": 0.011870169
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389338933,
+        "longitudeE7": -923879167
+      },
+      "endLocation": {
+        "latitudeE7": 389089243,
+        "longitudeE7": -923385609
+      },
+      "duration": {
+        "startTimestamp": "2017-08-18T04:42:10.954Z",
+        "endTimestamp": "2017-08-20T00:00:00Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389339809,
+          "lngE7": -923880924,
+          "accuracyMeters": 10,
+          "timestamp": "2017-08-18T16:56:59Z"
+        }, {
+          "latE7": 389088475,
+          "lngE7": -923384471,
+          "accuracyMeters": 10,
+          "timestamp": "2017-08-19T08:12:23.028Z"
+        }, {
+          "latE7": 389094236,
+          "lngE7": -923392768,
+          "accuracyMeters": 65,
+          "timestamp": "2017-08-19T11:15:20.474Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5321.525670292664
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389089243,
+        "longitudeE7": -923385609
+      },
+      "endLocation": {
+        "latitudeE7": 389088651,
+        "longitudeE7": -923384615
+      },
+      "duration": {
+        "startTimestamp": "2017-08-20T00:00:00Z",
+        "endTimestamp": "2017-08-20T05:58:29.175Z"
+      },
+      "distance": 10793,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 86.51248411056307
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.404315025462635
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.804857467233015
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389089661,
+        "longitudeE7": -923385086,
+        "placeId": "ChIJAVIXQxy33IcRd3wAp627Sko",
+        "address": "110 East Nifong Boulevard, Columbia, Missouri 65203-3709, United States",
+        "sourceInfo": {
+          "deviceTag": -437995110
+        },
+        "locationConfidence": 54.554474,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-08-20T05:58:29.175Z",
+        "endTimestamp": "2017-08-20T09:01:13.500Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 389089250,
+      "centerLngE7": -923384500,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389087195,
+        "longitudeE7": -923382457,
+        "placeId": "ChIJnVMHQxy33IcRc8EoeUAf97E",
+        "address": "110A E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Break Time",
+        "locationConfidence": 34.50935,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 389087644,
+        "longitudeE7": -923366081,
+        "placeId": "ChIJyUTqhhu33IcRmbd4Bo_csVw",
+        "address": "128 E Nifong Blvd ste e, Columbia, MO 65203, USA",
+        "name": "Yin Yang Night Club",
+        "locationConfidence": 8.363843
+      }, {
+        "latitudeE7": 389093941,
+        "longitudeE7": -923377051,
+        "placeId": "ChIJP-mOYxy33IcRg1qLNMQYJz0",
+        "address": "200 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Lutz\u0027s BBQ",
+        "locationConfidence": 0.3355585
+      }, {
+        "latitudeE7": 389099161,
+        "longitudeE7": -923384315,
+        "placeId": "ChIJyQVm8xy33IcRWQKPrBGL_Jk",
+        "address": "101 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Phillips 66",
+        "locationConfidence": 0.30150405
+      }, {
+        "latitudeE7": 389092476,
+        "longitudeE7": -923404332,
+        "placeId": "ChIJJTZ0Vxy33IcRlFJnJzLNSwU",
+        "address": "3717 Monterey Dr, Columbia, MO 65203, USA",
+        "name": "Rock Bridge Meadows",
+        "locationConfidence": 0.28925592
+      }, {
+        "latitudeE7": 389083830,
+        "longitudeE7": -923377400,
+        "placeId": "ChIJ7axXaRy33IcRdh8pz1yXzZA",
+        "address": "120 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Osaka Japanese restaurant",
+        "locationConfidence": 0.17359254
+      }, {
+        "latitudeE7": 389090166,
+        "longitudeE7": -923359739,
+        "placeId": "ChIJ54O2ohu33IcRvcsoaEwtDw8",
+        "address": "3805 S Providence Rd, Columbia, MO 65203, USA",
+        "name": "Tropical Liqueurs Bar \u0026 Grill",
+        "locationConfidence": 0.17125225
+      }, {
+        "latitudeE7": 389080654,
+        "longitudeE7": -923373018,
+        "placeId": "ChIJVbVGYBy33IcRCV31-PbWy_c",
+        "address": "501 Fay St Suite 112, Columbia, MO 65201, USA",
+        "name": "Peachtree Catering \u0026 Banquet",
+        "locationConfidence": 0.111167155
+      }, {
+        "latitudeE7": 389112087,
+        "longitudeE7": -923381099,
+        "placeId": "ChIJ5-qevxy33IcR6Z_xKAxbtbI",
+        "address": "3700 Monterey Dr, Columbia, MO 65203, USA",
+        "name": "Deuce Pub \u0026 Pit",
+        "locationConfidence": 0.10125464
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

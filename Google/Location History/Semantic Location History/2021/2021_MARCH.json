@@ -1,0 +1,200 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 374222934,
+        "longitudeE7": -1220841409,
+        "placeId": "ChIJeRpOeF67j4AR9ydy_PIzPuM",
+        "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "sourceInfo": {
+          "deviceTag": -461235500
+        },
+        "locationConfidence": 54.216362,
+        "calibratedProbability": 40.0896
+      },
+      "duration": {
+        "startTimestamp": "2021-03-11T03:43:52.293Z",
+        "endTimestamp": "2021-03-12T05:42:50.192Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 374219912,
+      "centerLngE7": -1220840012,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 374222934,
+        "longitudeE7": -1220841409,
+        "placeId": "ChIJeRpOeF67j4AR9ydy_PIzPuM",
+        "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "locationConfidence": 17.989775,
+        "calibratedProbability": 13.302311
+      }, {
+        "latitudeE7": 374226382,
+        "longitudeE7": -1220847781,
+        "placeId": "ChIJN8KDNnq7j4AR18Xh9LVB4c4",
+        "address": "1600 Amphitheatre Pkwy Building 43, Mountain View, CA 94043, USA",
+        "name": "Google B43",
+        "locationConfidence": 8.034855,
+        "calibratedProbability": 5.941272
+      }, {
+        "latitudeE7": 374235399,
+        "longitudeE7": -1220862311,
+        "placeId": "ChIJPymI2QK6j4ARWw1BzUD9i08",
+        "address": "Permanente Creek Trail, Mountain View, CA 94043, USA",
+        "name": "Permanente Creek Trail",
+        "locationConfidence": 6.28509,
+        "calibratedProbability": 4.64743
+      }, {
+        "latitudeE7": 374220996,
+        "longitudeE7": -1220819686,
+        "placeId": "ChIJo4za6vi5j4ARMua093RgGGA",
+        "address": "1500 Charleston Rd, Mountain View, CA 94043, USA",
+        "name": "Charleston Park",
+        "locationConfidence": 1.7632375,
+        "calibratedProbability": 1.3038036
+      }, {
+        "latitudeE7": 374213009,
+        "longitudeE7": -1220878487,
+        "placeId": "ChIJdwb6oAO6j4AR5gRXNx3o6Ys",
+        "address": "Mountain View, CA 94043, USA",
+        "name": "1950 Charleston",
+        "locationConfidence": 1.1807126,
+        "calibratedProbability": 0.87306297
+      }, {
+        "latitudeE7": 374223642,
+        "longitudeE7": -1220840955,
+        "placeId": "ChIJj38IfwK6j4ARNcyPDnEGa9g",
+        "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "name": "Google Building 40",
+        "locationConfidence": 1.0084196,
+        "calibratedProbability": 0.7456631
+      }, {
+        "latitudeE7": 374258276,
+        "longitudeE7": -1220837226,
+        "placeId": "ChIJhSe74_e5j4AR8260in1_kjA",
+        "address": "Mountain View, CA 94043, USA",
+        "name": "Vista Slope",
+        "locationConfidence": 0.97713286,
+        "calibratedProbability": 0.7225285
+      }, {
+        "latitudeE7": 374215571,
+        "longitudeE7": -1220839863,
+        "placeId": "ChIJgz9fdgK6j4AR3EL1yn1L-Mo",
+        "address": "Mountain View, CA 94043, USA",
+        "name": "Google Building 43",
+        "locationConfidence": 0.75883716,
+        "calibratedProbability": 0.5611125
+      }, {
+        "latitudeE7": 374268342,
+        "longitudeE7": -1220807023,
+        "placeId": "ChIJZeH1dve5j4ARPT9VG0oB3x0",
+        "address": "One Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "name": "Shoreline Amphitheatre",
+        "locationConfidence": 0.4888529,
+        "calibratedProbability": 0.36147606
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 374237754,
+        "longitudeE7": -1220853195,
+        "placeId": "ChIJN8KDNnq7j4AR18Xh9LVB4c4",
+        "address": "1600 Amphitheatre Pkwy Building 43, Mountain View, CA 94043, USA",
+        "name": "Google B43",
+        "sourceInfo": {
+          "deviceTag": -54464996
+        },
+        "locationConfidence": 20.506927,
+        "calibratedProbability": 21.448008
+      },
+      "duration": {
+        "startTimestamp": "2021-03-16T18:38:43.017Z",
+        "endTimestamp": "2021-03-17T01:49:55.237Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 374220018,
+      "centerLngE7": -1220840138,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 374222934,
+        "longitudeE7": -1220841409,
+        "placeId": "ChIJeRpOeF67j4AR9ydy_PIzPuM",
+        "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "locationConfidence": 14.452521,
+        "calibratedProbability": 15.11576
+      }, {
+        "latitudeE7": 374220996,
+        "longitudeE7": -1220819686,
+        "placeId": "ChIJo4za6vi5j4ARMua093RgGGA",
+        "address": "1500 Charleston Rd, Mountain View, CA 94043, USA",
+        "name": "Charleston Park",
+        "locationConfidence": 3.7082243,
+        "calibratedProbability": 3.878398
+      }, {
+        "latitudeE7": 374235399,
+        "longitudeE7": -1220862311,
+        "placeId": "ChIJPymI2QK6j4ARWw1BzUD9i08",
+        "address": "Permanente Creek Trail, Mountain View, CA 94043, USA",
+        "name": "Permanente Creek Trail",
+        "locationConfidence": 3.4610608,
+        "calibratedProbability": 3.6198916
+      }, {
+        "latitudeE7": 374258276,
+        "longitudeE7": -1220837226,
+        "placeId": "ChIJhSe74_e5j4AR8260in1_kjA",
+        "address": "Mountain View, CA 94043, USA",
+        "name": "Vista Slope",
+        "locationConfidence": 2.129863,
+        "calibratedProbability": 2.2276042
+      }, {
+        "latitudeE7": 374132567,
+        "longitudeE7": -1220877699,
+        "placeId": "ChIJ1467zquwj4ARNcuZY5iD3OI",
+        "address": "Permanente Creek, Mountain View, CA, USA",
+        "name": "Permanente Creek",
+        "locationConfidence": 1.7188495,
+        "calibratedProbability": 1.797729
+      }, {
+        "latitudeE7": 374215571,
+        "longitudeE7": -1220839863,
+        "placeId": "ChIJgz9fdgK6j4AR3EL1yn1L-Mo",
+        "address": "Mountain View, CA 94043, USA",
+        "name": "Google Building 43",
+        "locationConfidence": 1.5172163,
+        "calibratedProbability": 1.5868427
+      }, {
+        "latitudeE7": 374268342,
+        "longitudeE7": -1220807023,
+        "placeId": "ChIJZeH1dve5j4ARPT9VG0oB3x0",
+        "address": "One Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "name": "Shoreline Amphitheatre",
+        "locationConfidence": 1.5028927,
+        "calibratedProbability": 1.5718617
+      }, {
+        "latitudeE7": 374223642,
+        "longitudeE7": -1220840955,
+        "placeId": "ChIJj38IfwK6j4ARNcyPDnEGa9g",
+        "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "name": "Google Building 40",
+        "locationConfidence": 1.3208462,
+        "calibratedProbability": 1.3814609
+      }, {
+        "latitudeE7": 374224864,
+        "longitudeE7": -1220855962,
+        "placeId": "ChIJxQvW8wK6j4AR3ukttGy3w2s",
+        "address": "Mountain View, CA 94043, USA",
+        "name": "Google Building 41",
+        "locationConfidence": 0.61226845,
+        "calibratedProbability": 0.64036596
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

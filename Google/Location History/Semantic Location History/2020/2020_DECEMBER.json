@@ -1,0 +1,2413 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389327128,
+        "longitudeE7": -923883216,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389339089,
+        "longitudeE7": -923878602,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-02T02:27:22.449Z",
+        "endTimestamp": "2020-12-02T02:39:01.411Z"
+      },
+      "distance": 729,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 64.6813154220581
+      }, {
+        "activityType": "STILL",
+        "probability": 13.401515781879425
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 13.025732338428497
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.692910984158516
+      }, {
+        "activityType": "RUNNING",
+        "probability": 2.202448807656765
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 1.3463850133121014
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.295117381028831
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.1655343803577125
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.059738894924521446
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.046758909593336284
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.045607201172970235
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.017551345808897167
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.017008713621180505
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002313896948180627
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.071148277442262E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389326744,
+          "lngE7": -923883132
+        }, {
+          "latE7": 389311065,
+          "lngE7": -923893508
+        }, {
+          "latE7": 389305877,
+          "lngE7": -923891143
+        }, {
+          "latE7": 389337348,
+          "lngE7": -923877944
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJSb0jY9q13IcRmppAuKzVeuk",
+          "duration": "118s"
+        }, {
+          "placeId": "ChIJ3bNLZNC13IcReOE9ZiMJ0xA",
+          "duration": "140s"
+        }, {
+          "placeId": "ChIJGT7dWNC13IcR2vzEwukSaeE",
+          "duration": "28s"
+        }, {
+          "placeId": "ChIJGT7dWNC13IcR2_zEwukSaeE",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJ3bNLZNC13IcReeE9ZiMJ0xA",
+          "duration": "119s"
+        }, {
+          "placeId": "ChIJSb0jY9q13IcRm5pAuKzVeuk",
+          "duration": "238s"
+        }, {
+          "placeId": "ChIJcVCyRtq13IcRViWAdDD1GEg",
+          "duration": "22s"
+        }],
+        "distanceMeters": 848.6749476441889,
+        "travelMode": "WALK",
+        "confidence": 0.7247233214167784
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389305496,
+          "lngE7": -923892365,
+          "accuracyMeters": 5,
+          "timestamp": "2020-12-02T02:30:55.716Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203-4719, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 83.22843,
+        "calibratedProbability": 68.17198
+      },
+      "duration": {
+        "startTimestamp": "2020-12-02T02:39:01.411Z",
+        "endTimestamp": "2020-12-03T02:11:00.556Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 389339950,
+      "centerLngE7": -923881400,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "locationConfidence": 1.1720684,
+        "calibratedProbability": 0.9600352
+      }, {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 1.0927151,
+        "calibratedProbability": 0.8950374
+      }, {
+        "latitudeE7": 389338602,
+        "longitudeE7": -923850942,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.25942147,
+        "calibratedProbability": 0.2124908
+      }, {
+        "latitudeE7": 389353642,
+        "longitudeE7": -923856625,
+        "placeId": "ChIJW6tllt-13IcREh4SiAzL1oU",
+        "name": "Harmony Birth Services",
+        "locationConfidence": 0.2343708,
+        "calibratedProbability": 0.19197193
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389340057,
+        "longitudeE7": -923879307,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389322908,
+        "longitudeE7": -923992339,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-03T02:11:00.556Z",
+        "endTimestamp": "2020-12-03T02:24:40Z"
+      },
+      "distance": 996,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 69.75088715553284
+      }, {
+        "activityType": "STILL",
+        "probability": 23.885726928710938
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.5314146652817726
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.3896947503089905
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1206774972379208
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10604570852592587
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.10111620649695396
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.0591167772654444
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.026757834712043405
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.01251244975719601
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.011097516835434362
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0035854955058312044
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 8.283007446152624E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.4301887101028115E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.269801921618637E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389338569,
+          "lngE7": -923881378
+        }, {
+          "latE7": 389338264,
+          "lngE7": -923920669
+        }, {
+          "latE7": 389322891,
+          "lngE7": -923992767
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJNwS8Wtq13IcRxGJW4F_3qSQ",
+          "duration": "26s"
+        }, {
+          "placeId": "ChIJRdKHXNq13IcRgznSu4aPg9g",
+          "duration": "26s"
+        }, {
+          "placeId": "ChIJXYk59Nq13IcR48vIFp-K3T8",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJp5Bi6dq13IcRq-csJaPI2uA",
+          "duration": "39s"
+        }, {
+          "placeId": "ChIJl9kwxNq13IcRAtJqwMrqRYg",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ3zZPzNq13IcRhT_lCrYf5fk",
+          "duration": "33s"
+        }, {
+          "placeId": "ChIJ2_sVO8W13IcRVbySQLqC9d8",
+          "duration": "33s"
+        }, {
+          "placeId": "ChIJAQfjtsW13IcR0_yIsc_3HEg",
+          "duration": "139s"
+        }, {
+          "placeId": "ChIJwRhhYca13IcRcPXUHd1ybGA",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJz3MpX8a13IcRkIexM2K4k94",
+          "duration": "26s"
+        }, {
+          "placeId": "ChIJS1DdVca13IcR8ioz54eQNpo",
+          "duration": "39s"
+        }, {
+          "placeId": "ChIJOWDdrMe13IcR7xQSZGH9F3s",
+          "duration": "79s"
+        }, {
+          "placeId": "ChIJm36fsse13IcRxdOnJutRMiY",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJm36fsse13IcRzzbcXLzgtig",
+          "duration": "53s"
+        }, {
+          "placeId": "ChIJ88TptMe13IcRiuGrPOPZPtY",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ88TptMe13IcRAjCQ6-S_WCo",
+          "duration": "66s"
+        }, {
+          "placeId": "ChIJ-YrYt8e13IcR8CZgLKXx0j8",
+          "duration": "66s"
+        }, {
+          "placeId": "ChIJux4Axse13IcRVJm5Hws-dIM",
+          "duration": "99s"
+        }, {
+          "placeId": "ChIJk-wG2se13IcRAIyHcEX6bjA",
+          "duration": "39s"
+        }],
+        "distanceMeters": 1246.066098350409,
+        "travelMode": "DRIVE",
+        "confidence": 0.9756412431230511
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389322908,
+          "longitudeE7": -923992339,
+          "accuracyMetres": 70
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-12-03T02:24:40Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389322728,
+        "longitudeE7": -923990995,
+        "placeId": "ChIJUcFq18e13IcRfSbv28xNK38",
+        "address": "2101 Corona Rd #101, Columbia, MO 65203, USA",
+        "name": "Xpress Liquor \u0026 Smokes",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 48.926666,
+        "calibratedProbability": 21.26349
+      },
+      "duration": {
+        "startTimestamp": "2020-12-03T02:24:40Z",
+        "endTimestamp": "2020-12-03T16:52:26.999Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 389340587,
+      "centerLngE7": -923878988,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389339905,
+        "longitudeE7": -923877563,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203, USA",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 46.26557,
+        "calibratedProbability": 20.106981
+      }, {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "locationConfidence": 1.0004514,
+        "calibratedProbability": 0.4347954
+      }, {
+        "latitudeE7": 389320545,
+        "longitudeE7": -923990290,
+        "placeId": "ChIJ-TGHzce13IcR1ZLj6Cmsf-g",
+        "address": "2101 Corona Rd, Columbia, MO 65203, USA",
+        "name": "Anytime Fitness",
+        "locationConfidence": 0.89212906,
+        "calibratedProbability": 0.3877186
+      }, {
+        "latitudeE7": 389324041,
+        "longitudeE7": -923979346,
+        "placeId": "ChIJn-_aNMa13IcR1JVCSRRlUx8",
+        "address": "2100 Cherry Hill Dr, Columbia, MO 65203, USA",
+        "name": "The Magic Tree",
+        "locationConfidence": 0.8281797,
+        "calibratedProbability": 0.35992625
+      }, {
+        "latitudeE7": 389328945,
+        "longitudeE7": -923983324,
+        "placeId": "ChIJQS2eNsa13IcRIG7GWvtj3Sk",
+        "address": "Columbia, MO 65203, USA",
+        "name": "Cherry Hill Park",
+        "locationConfidence": 0.6237702,
+        "calibratedProbability": 0.27109003
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 40,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203-4719, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 80.96504,
+        "calibratedProbability": 67.57963
+      },
+      "duration": {
+        "startTimestamp": "2020-12-03T16:52:26.999Z",
+        "endTimestamp": "2020-12-03T21:32:36.695Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 389336975,
+      "centerLngE7": -923880025,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "locationConfidence": 1.706104,
+        "calibratedProbability": 1.4240452
+      }, {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 1.2827885,
+        "calibratedProbability": 1.0707136
+      }, {
+        "latitudeE7": 389338602,
+        "longitudeE7": -923850942,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.28877902,
+        "calibratedProbability": 0.24103712
+      }, {
+        "latitudeE7": 389351730,
+        "longitudeE7": -923850453,
+        "placeId": "ChIJWTOiUHO13IcRudj0VGcg_54",
+        "locationConfidence": 0.21176395,
+        "calibratedProbability": 0.17675443
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389327948,
+        "longitudeE7": -923880049,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389336395,
+        "longitudeE7": -923895030,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-03T21:32:36.695Z",
+        "endTimestamp": "2020-12-03T21:43:29.619Z"
+      },
+      "distance": 726,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 73.3285903930664
+      }, {
+        "activityType": "STILL",
+        "probability": 10.18354743719101
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.60500505566597
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.344949126243591
+      }, {
+        "activityType": "RUNNING",
+        "probability": 3.7248801440000534
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.4144995007663965
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.10117596248164773
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0894498371053487
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.08153228554874659
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.047176293446682394
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0448484206572175
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.018329807789996266
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0079513672972098
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.007875102164689451
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.8929215457319515E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389327125,
+          "lngE7": -923879928
+        }, {
+          "latE7": 389302482,
+          "lngE7": -923904724
+        }, {
+          "latE7": 389303207,
+          "lngE7": -923904724
+        }, {
+          "latE7": 389336738,
+          "lngE7": -923899230
+        }, {
+          "latE7": 389336433,
+          "lngE7": -923895034
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJSb0jY9q13IcRmppAuKzVeuk",
+          "duration": "123s"
+        }, {
+          "placeId": "ChIJ3bNLZNC13IcReOE9ZiMJ0xA",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJFea_RtC13IcRsekGX5usJWo",
+          "duration": "85s"
+        }, {
+          "placeId": "ChIJ_2_ICdC13IcRb59SZC0Hi94",
+          "duration": "269s"
+        }, {
+          "placeId": "ChIJp5Bi6dq13IcRq-csJaPI2uA",
+          "duration": "50s"
+        }],
+        "distanceMeters": 930.8719733545078,
+        "travelMode": "WALK",
+        "confidence": 0.9965624103595325
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389303169,
+          "lngE7": -923903198,
+          "accuracyMeters": 5,
+          "timestamp": "2020-12-03T21:38:55.648Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203-4719, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 78.14117,
+        "calibratedProbability": 58.6313
+      },
+      "duration": {
+        "startTimestamp": "2020-12-03T21:43:29.619Z",
+        "endTimestamp": "2020-12-04T00:29:23.704Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 389338150,
+      "centerLngE7": -923887200,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 3.8863475,
+        "calibratedProbability": 2.9160254
+      }, {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "locationConfidence": 2.8951445,
+        "calibratedProbability": 2.1723006
+      }, {
+        "latitudeE7": 389351730,
+        "longitudeE7": -923850453,
+        "placeId": "ChIJWTOiUHO13IcRudj0VGcg_54",
+        "locationConfidence": 0.12986559,
+        "calibratedProbability": 0.09744145
+      }, {
+        "latitudeE7": 389353642,
+        "longitudeE7": -923856625,
+        "placeId": "ChIJW6tllt-13IcREh4SiAzL1oU",
+        "name": "Harmony Birth Services",
+        "locationConfidence": 0.10204144,
+        "calibratedProbability": 0.07656429
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389336034,
+        "longitudeE7": -923904153,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389338951,
+        "longitudeE7": -923882674,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T16:41:46.879Z",
+        "endTimestamp": "2020-12-05T16:50:04.514Z"
+      },
+      "distance": 1706,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 59.96131896972656
+      }, {
+        "activityType": "STILL",
+        "probability": 33.28327536582947
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.7135400101542473
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.4224167689681053
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1672052554786205
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.15354895731434226
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.14524435391649604
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06446446641348302
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05260914913378656
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.016683446301613003
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.007355053094215691
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.006905029295012355
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003928113437723368
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0013606306310975924
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4773235079701408E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389324980,
+          "lngE7": -923990765,
+          "accuracyMeters": 5,
+          "timestamp": "2020-12-05T16:44:20.895Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1706.9544956454956
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "semanticType": "TYPE_WORK",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 0.51870346,
+        "calibratedProbability": 13.510338
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T16:50:04.514Z",
+        "endTimestamp": "2020-12-05T18:28:43.066Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 389354073,
+      "centerLngE7": -923820685,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 0.45149028,
+        "calibratedProbability": 11.759679
+      }, {
+        "latitudeE7": 389353642,
+        "longitudeE7": -923856625,
+        "placeId": "ChIJW6tllt-13IcREh4SiAzL1oU",
+        "name": "Harmony Birth Services",
+        "locationConfidence": 0.17939806,
+        "calibratedProbability": 4.6726665
+      }, {
+        "latitudeE7": 389338602,
+        "longitudeE7": -923850942,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.17668307,
+        "calibratedProbability": 4.601951
+      }, {
+        "latitudeE7": 389351730,
+        "longitudeE7": -923850453,
+        "placeId": "ChIJWTOiUHO13IcRudj0VGcg_54",
+        "locationConfidence": 0.1317501,
+        "calibratedProbability": 3.4316108
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 1,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389336034,
+        "longitudeE7": -923904153,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389539618,
+        "longitudeE7": -923719934,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T18:28:43.066Z",
+        "endTimestamp": "2020-12-05T18:36:14.540Z"
+      },
+      "distance": 4911,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 51.32132172584534
+      }, {
+        "activityType": "STILL",
+        "probability": 47.488442063331604
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.8434806019067764
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.10596489300951362
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.09864828316494823
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.04424295912031084
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03931488317903131
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03079988237004727
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.01568772131577134
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0049623718950897455
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.003551605550455861
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.002436139948258642
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 8.044114110816736E-4
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 3.162261009492795E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.6031156608041783E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389354553,
+          "lngE7": -923820800
+        }, {
+          "latE7": 389467811,
+          "lngE7": -923808441
+        }, {
+          "latE7": 389547958,
+          "lngE7": -923729324
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJL2JQm9i13IcRk7bUP656E0w",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJ9_8AIna23IcRNiBA6sXVnpQ",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJSSfMBna23IcRZiPvwOHjv-s",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJIWu8jHW23IcRgdOZFnWaK6A",
+          "duration": "34s"
+        }, {
+          "placeId": "ChIJK3KeZnW23IcRc1ocYyOGQOI",
+          "duration": "37s"
+        }, {
+          "placeId": "ChIJzU_YU3W23IcR0KjnN6HveKc",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJg-eRowq23IcRSrd_C9Dv3Ao",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJbyGTmAq23IcROvlGrxDfV_g",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJDSUemwq23IcRyvGGSJ63gcA",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJz2V_fQq23IcRvGct3mnv1HE",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR45t3WS9tbcs",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR5TQjZLRgnMU",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRBkUQtMv8P1w",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRCQR56YCT8I4",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJJ1VRDAq23IcRcgGPw6IayPk",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ1anKDQq23IcR-7e-bTJhsks",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJgcJ-Dgq23IcRmVKK8j3ockU",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJf_uJDgq23IcRNSNMZTfbTGk",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJpcL0BAq23IcRra-EMleROMA",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJ5RLs-gm23IcRTK94sYSR2os",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJWaGb2gm23IcRuWpck8OZjVc",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJ577ZLQi23IcRazcUPM_BLfs",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJAZVsJQi23IcRFcoRwVbR21M",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcR3YxkI5YupEs",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcRiCstJi3L0w8",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJL4ETBgi23IcRXR_9FcaNq8Y",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJB7bG_Ae23IcRx9lqn11TAyc",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJN9AX8Ae23IcR7N-evkHf7bo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJN9AX8Ae23IcRgnEY3IpAw50",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJiSpTjQe23IcRy4RqKwAeQuo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJf5nZlQe23IcR2-hYMxL84EM",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJdZ3cuQe23IcRl1nfROYaNDA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJK0kutAe23IcRZzog-MIXykk",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJw88wSga23IcRMWiTRvjh3cQ",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJNVdyRwa23IcRcQ8dNLyFn28",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJvT7Saga23IcRORGwUcmsOgY",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJ_zPkCga23IcRMomfPn2ALss",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJT23_5gW23IcRPd-OuKLSKfo",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ7cpq6wW23IcR45GGnoWzx3U",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJQ9v4mQW23IcRA53FCiMduks",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJUZufngW23IcRmC-W_x3NiR0",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJUZufngW23IcRTLzo1KuxFYQ",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ46HfnQW23IcRdIHZoLmeTkU",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJkYlPcQW23IcRXxACxMwNm64",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJg0MmbgW23IcRpZar3gbyEXw",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJg5HrbgW23IcRIyBIBklHxNQ",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ57CfbgW23IcRjPJCTcVo-2A",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJixF1bAW23IcRmiO7rYqJsuQ",
+          "duration": "4s"
+        }, {
+          "placeId": "ChIJ-WwjFAW23IcR4iFeufKaDPQ",
+          "duration": "49s"
+        }],
+        "distanceMeters": 2982.9948059330054,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389547964,
+          "longitudeE7": -923729594,
+          "accuracyMetres": 70
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-12-05T18:41:21.527Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389547868,
+        "longitudeE7": -923732393,
+        "placeId": "ChIJl0EhGAW23IcRyY-gNYu_bzY",
+        "address": "2101 W Broadway, Columbia, MO 65203, USA",
+        "name": "House of Chow",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 33.82514,
+        "calibratedProbability": 10.526098
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T18:36:14.540Z",
+        "endTimestamp": "2020-12-05T18:52:01.204Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 389546033,
+      "centerLngE7": -923733700,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389546794,
+        "longitudeE7": -923732360,
+        "placeId": "ChIJSQVzHAW23IcR8J6g9IzzZ0k",
+        "address": "2101 W Broadway Suite S, Columbia, MO 65203, USA",
+        "name": "Love Sushi",
+        "locationConfidence": 18.787128,
+        "calibratedProbability": 5.8463955
+      }, {
+        "latitudeE7": 389551811,
+        "longitudeE7": -923721070,
+        "placeId": "ChIJvS5JsBq23IcRYp181FPPMXk",
+        "address": "2101 W Broadway m, Columbia, MO 65203, USA",
+        "name": "Dollar Tree",
+        "locationConfidence": 12.979185,
+        "calibratedProbability": 4.039013
+      }, {
+        "latitudeE7": 389551811,
+        "longitudeE7": -923721070,
+        "placeId": "ChIJPxHuFua33IcRe8GWL-JhMMg",
+        "address": "2101 W Broadway Ste A, Columbia, MO 65203, USA",
+        "name": "T-Mobile",
+        "locationConfidence": 12.670201,
+        "calibratedProbability": 3.9428596
+      }, {
+        "latitudeE7": 389544067,
+        "longitudeE7": -923732528,
+        "placeId": "ChIJl0EhGAW23IcRjhO-vhKsS3A",
+        "address": "2101 West Broadway Floor Suite T, Columbia, MO 65203, USA",
+        "name": "Petco",
+        "locationConfidence": 4.562275,
+        "calibratedProbability": 1.4197414
+      }, {
+        "latitudeE7": 389555150,
+        "longitudeE7": -923731170,
+        "placeId": "ChIJ5cH4RwW23IcRFpE3Rsk4V7M",
+        "address": "205 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Once Upon A Child Columbia, MO",
+        "locationConfidence": 2.493232,
+        "calibratedProbability": 0.7758727
+      }, {
+        "latitudeE7": 389550950,
+        "longitudeE7": -923720850,
+        "placeId": "ChIJheua1xy33IcRKaSK0F5vDAI",
+        "address": "15 N Stadium Blvd, Columbia, MO 65203, USA",
+        "name": "Andy\u0027s Frozen Custard",
+        "locationConfidence": 2.167481,
+        "calibratedProbability": 0.6745018
+      }, {
+        "latitudeE7": 389545972,
+        "longitudeE7": -923731976,
+        "placeId": "ChIJl0EhGAW23IcRCqgavqRPSKQ",
+        "address": "2101 W Broadway suite r, Columbia, MO 65203, USA",
+        "name": "Cost Cutters",
+        "locationConfidence": 1.8362423,
+        "calibratedProbability": 0.5714231
+      }, {
+        "latitudeE7": 389554090,
+        "longitudeE7": -923725790,
+        "placeId": "ChIJSQVzHAW23IcRb4n7_JODZhs",
+        "address": "2101 W Broadway, Columbia, MO 65203, USA",
+        "name": "Planet Fitness",
+        "locationConfidence": 1.3703573,
+        "calibratedProbability": 0.4264436
+      }, {
+        "latitudeE7": 389550954,
+        "longitudeE7": -923733856,
+        "placeId": "ChIJl0EhGAW23IcRSnD4fIqJvyI",
+        "address": "2101 W Broadway, Columbia, MO 65203, USA",
+        "name": "G \u0026 D Pizzaria",
+        "locationConfidence": 0.6465475,
+        "calibratedProbability": 0.20120011
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 27,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389542382,
+        "longitudeE7": -923742125,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389539580,
+        "longitudeE7": -923840290,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T18:52:01.204Z",
+        "endTimestamp": "2020-12-05T19:01:42.196Z"
+      },
+      "distance": 849,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 91.40446186065674
+      }, {
+        "activityType": "STILL",
+        "probability": 6.257021427154541
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.6065267845988274
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.30611068941652775
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2729246625676751
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.10957540944218636
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02322844957234338
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006594492879230529
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.0051331324357306585
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0041152405174216256
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0031312054488807917
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 6.323951765807578E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.4417696497257566E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.1123416925329366E-4
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 8.928996066970285E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389541702,
+          "lngE7": -923742141
+        }, {
+          "latE7": 389543075,
+          "lngE7": -923759460
+        }, {
+          "latE7": 389539566,
+          "lngE7": -923840408
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJUZufngW23IcRmS-W_x3NiR0",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJQ9v4mQW23IcRAp3FCiMduks",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ7cpq6wW23IcR4pGGnoWzx3U",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJT23_5gW23IcRPN-OuKLSKfo",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ_zPkCga23IcRM4mfPn2ALss",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJvT7Saga23IcROBGwUcmsOgY",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJNVdyRwa23IcRcA8dNLyFn28",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJw88wSga23IcRMGiTRvjh3cQ",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJ7cXktAe23IcRnkit3tHLMSI",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJtfyYtge23IcRgCQgLWtbcXI",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJh0NBtwe23IcRJBUvE9x1rTw",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJb6uauQe23IcRsnko6I7xjq0",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJxZDWlQe23IcRBuZLgk0HZbw",
+          "duration": "54s"
+        }, {
+          "placeId": "ChIJ5R8ziAe23IcR8u3UDjhqWY8",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJ5R8ziAe23IcRfrYhZ0Tm1iw",
+          "duration": "37s"
+        }, {
+          "placeId": "ChIJ-Rd7bf213IcRQy47btBUp4s",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ-Rd7bf213IcRWTXQVuVrbNY",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJHVWKDf213IcRjrt-p0U58Ls",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJHVWKDf213IcRFoY7q8cBIeo",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJWfiUEf213IcRl4e-v7RvC5Q",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJQwRoEf213IcRkkcIjh6x960",
+          "duration": "27s"
+        }, {
+          "placeId": "ChIJD0DgG_213IcRaRKOvqc16h8",
+          "duration": "21s"
+        }, {
+          "placeId": "ChIJkbscHP213IcRqU6l1CiNoOA",
+          "duration": "48s"
+        }, {
+          "placeId": "ChIJZyLdHf213IcR3w-YDyD2JAU",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJZyLdHf213IcR54OabooCnHI",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJi-mu4fy13IcRm6xqL1QHk_M",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJKd_v3vy13IcRrxTSMTlnc80",
+          "duration": "81s"
+        }],
+        "distanceMeters": 977.6458392188615,
+        "travelMode": "DRIVE",
+        "confidence": 0.9990574470644225
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389539534,
+          "longitudeE7": -923839781,
+          "accuracyMetres": 65
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-12-05T19:07:05.193Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389539223,
+        "longitudeE7": -923842010,
+        "placeId": "ChIJXZjDOv213IcRW8yPnenrNus",
+        "address": "3100 West Broadway, Columbia, Missouri 65203-0102, United States",
+        "name": "Hy-Vee",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 88.5355,
+        "calibratedProbability": 70.70333
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T19:01:42.196Z",
+        "endTimestamp": "2020-12-05T19:12:42.175Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 389541900,
+      "centerLngE7": -923840867,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389563503,
+        "longitudeE7": -923825614,
+        "placeId": "ChIJfUg6A_213IcR2ADpwQmtb3c",
+        "address": "W Broadway, Columbia, MO 65203, USA",
+        "name": "Fairview Market Place",
+        "locationConfidence": 1.2140125,
+        "calibratedProbability": 0.96949506
+      }, {
+        "latitudeE7": 389538177,
+        "longitudeE7": -923852177,
+        "placeId": "ChIJGXQPlPy13IcRd1CVgIhZNPM",
+        "address": "3200 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Arby\u0027s",
+        "locationConfidence": 0.6617784,
+        "calibratedProbability": 0.52848786
+      }, {
+        "latitudeE7": 389534235,
+        "longitudeE7": -923863158,
+        "placeId": "ChIJTZkeWPu13IcRgjXlmrtJTL0",
+        "address": "3304 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Truman\u0027s Bar \u0026 Grill",
+        "locationConfidence": 0.5518143,
+        "calibratedProbability": 0.44067195
+      }, {
+        "latitudeE7": 389534986,
+        "longitudeE7": -923864527,
+        "placeId": "ChIJTZkeWPu13IcRNjXTXQ6YirQ",
+        "address": "3304 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Shakespeare\u0027s Pizza - West",
+        "locationConfidence": 0.2586429,
+        "calibratedProbability": 0.20654896
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389546739,
+        "longitudeE7": -923842715,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389338580,
+        "longitudeE7": -923873737,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T19:12:42.175Z",
+        "endTimestamp": "2020-12-05T19:20:06.204Z"
+      },
+      "distance": 2577,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 91.2411630153656
+      }, {
+        "activityType": "STILL",
+        "probability": 7.096948474645615
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.0847429744899273
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.28518885374069214
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.20040662493556738
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.039524820749647915
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.019022425112780184
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.016824057092890143
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.007114574691513553
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004782676114700735
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0017387455955031328
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0016415073332609609
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.982685135881184E-4
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.8935315893031657E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4986996177412948E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389545936,
+          "lngE7": -923842315
+        }, {
+          "latE7": 389543190,
+          "lngE7": -923841018
+        }, {
+          "latE7": 389523849,
+          "lngE7": -923851470
+        }, {
+          "latE7": 389467773,
+          "lngE7": -923809432
+        }, {
+          "latE7": 389338455,
+          "lngE7": -923873672
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ0-ETHv213IcRnhDj9bpPgYA",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJi-mu4fy13IcRm6xqL1QHk_M",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJg4ml4Py13IcRTSWWP443Nh8",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ51ud5_y13IcRjjAAObHFrXI",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJZfoS6Py13IcRxJxCoWXxl3s",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJubyc6fy13IcRCFof9fmBcCM",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJGevbwfy13IcRAfBlqOrfYkw",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJsfsowfy13IcRWcabG38wHWc",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJfWBByPy13IcRr0KVkfIS7PI",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJfWBByPy13IcReSOHxNp4V8g",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJa9J8yvy13IcRQ91ojEuXeq8",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJw76dSuO13IcRg9R0Hj_Mg3E",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJrR3IR-O13IcRFDzkdgWL6tQ",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJtZmxa-O13IcRQZDEl4hhht4",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJKSYeEuO13IcRaCh1jUTwCkA",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ91V43eK13IcRhdcSma7GPFk",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ91V43eK13IcRn4ZDwWSBJh0",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJS3P2sOK13IcRtK3pfFRVcpA",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJS3P2sOK13IcRE7ojuY-dxH0",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJf-XMruK13IcRBK_as7siDWo",
+          "duration": "2s"
+        }, {
+          "placeId": "ChIJoWKqAwi23IcRdsdw5U4X8DU",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcRiSstJi3L0w8",
+          "duration": "2s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcR3IxkI5YupEs",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJAZVsJQi23IcRFMoRwVbR21M",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ577ZLQi23IcRajcUPM_BLfs",
+          "duration": "2s"
+        }, {
+          "placeId": "ChIJWaGb2gm23IcRuGpck8OZjVc",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJ5RLs-gm23IcRTa94sYSR2os",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJpcL0BAq23IcRrK-EMleROMA",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJf_uJDgq23IcRNCNMZTfbTGk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJgWYhDAq23IcRH3uvU8xfYis",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJec8wDAq23IcRADumVa4z6jE",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJJ1VRDAq23IcRcwGPw6IayPk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRCAR56YCT8I4",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRB0UQtMv8P1w",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR5DQjZLRgnMU",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR4pt3WS9tbcs",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJz2V_fQq23IcRvWct3mnv1HE",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJDSUemwq23IcRy_GGSJ63gcA",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJbyGTmAq23IcRO_lGrxDfV_g",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJg-eRowq23IcRS7d_C9Dv3Ao",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJzU_YU3W23IcR0ajnN6HveKc",
+          "duration": "2s"
+        }, {
+          "placeId": "ChIJK3KeZnW23IcRclocYyOGQOI",
+          "duration": "23s"
+        }, {
+          "placeId": "ChIJIWu8jHW23IcRgNOZFnWaK6A",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJSSfMBna23IcRZyPvwOHjv-s",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJ9_8AIna23IcRNyBA6sXVnpQ",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJL2JQm9i13IcRkrbUP656E0w",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJtVuH8di13IcRuUB0UWFYMRU",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJOwfSB9m13IcRldS2WMMj5CA",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJOwfSB9m13IcRihY2OLo9y9Q",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJm9s0nNm13IcRTxqFVFXEUvk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJRwp2g9m13IcRU9rBBoTYhIA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJz6dgh9m13IcR3WW1liezeiA",
+          "duration": "2s"
+        }, {
+          "placeId": "ChIJeQFsL9q13IcRxTnjKFPZM-E",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJk6wJOdq13IcRSJymliCWQLw",
+          "duration": "2s"
+        }],
+        "distanceMeters": 3453.186806682426,
+        "travelMode": "DRIVE",
+        "confidence": 0.9990008378794454
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389523888,
+          "lngE7": -923851776,
+          "accuracyMeters": 5,
+          "timestamp": "2020-12-05T19:15:31.171Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389338635,
+          "longitudeE7": -923878942,
+          "accuracyMetres": 70
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-12-05T19:23:32.915Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203-4719, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 87.68151,
+        "calibratedProbability": 68.82246
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T19:20:06.204Z",
+        "endTimestamp": "2020-12-05T21:08:06.999Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 389339000,
+      "centerLngE7": -923877267,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "locationConfidence": 1.2837126,
+        "calibratedProbability": 1.0076042
+      }, {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 1.2021317,
+        "calibratedProbability": 0.9435702
+      }, {
+        "latitudeE7": 389351730,
+        "longitudeE7": -923850453,
+        "placeId": "ChIJWTOiUHO13IcRudj0VGcg_54",
+        "locationConfidence": 0.44761348,
+        "calibratedProbability": 0.35133815
+      }, {
+        "latitudeE7": 389338602,
+        "longitudeE7": -923850942,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.37565857,
+        "calibratedProbability": 0.29485974
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339938,
+        "longitudeE7": -923879265,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389339950,
+        "longitudeE7": -923878630,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T21:08:06.999Z",
+        "endTimestamp": "2020-12-05T22:41:30.939Z"
+      },
+      "distance": 1205,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 81.00789785385132
+      }, {
+        "activityType": "STILL",
+        "probability": 16.913196444511414
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.1259944178164005
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.3827617270871997
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.27325188275426626
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.16070265555754304
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.050375377759337425
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.028546448447741568
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.01962994283530861
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.016866924124769866
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013423102791421115
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.006513780681416392
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.662105988652911E-4
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.4948525404179236E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.3602804333222593E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389338493,
+          "lngE7": -923881301
+        }, {
+          "latE7": 389467811,
+          "lngE7": -923808441
+        }, {
+          "latE7": 389542198,
+          "lngE7": -923748321
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJNwS8Wtq13IcRxGJW4F_3qSQ",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJcVCyRtq13IcRVyWAdDD1GEg",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJk6wJOdq13IcRSZymliCWQLw",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJeQFsL9q13IcRxDnjKFPZM-E",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJz6dgh9m13IcR3GW1liezeiA",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJRwp2g9m13IcRUtrBBoTYhIA",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJm9s0nNm13IcRThqFVFXEUvk",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJOwfSB9m13IcRixY2OLo9y9Q",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJOwfSB9m13IcRlNS2WMMj5CA",
+          "duration": "147s"
+        }, {
+          "placeId": "ChIJtVuH8di13IcRuEB0UWFYMRU",
+          "duration": "193s"
+        }, {
+          "placeId": "ChIJL2JQm9i13IcRk7bUP656E0w",
+          "duration": "267s"
+        }, {
+          "placeId": "ChIJ9_8AIna23IcRNiBA6sXVnpQ",
+          "duration": "294s"
+        }, {
+          "placeId": "ChIJSSfMBna23IcRZiPvwOHjv-s",
+          "duration": "221s"
+        }, {
+          "placeId": "ChIJIWu8jHW23IcRgdOZFnWaK6A",
+          "duration": "396s"
+        }, {
+          "placeId": "ChIJK3KeZnW23IcRc1ocYyOGQOI",
+          "duration": "442s"
+        }, {
+          "placeId": "ChIJzU_YU3W23IcR0KjnN6HveKc",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJg-eRowq23IcRSrd_C9Dv3Ao",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJbyGTmAq23IcROvlGrxDfV_g",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJDSUemwq23IcRyvGGSJ63gcA",
+          "duration": "165s"
+        }, {
+          "placeId": "ChIJz2V_fQq23IcRvGct3mnv1HE",
+          "duration": "119s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR45t3WS9tbcs",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR5TQjZLRgnMU",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRBkUQtMv8P1w",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRCQR56YCT8I4",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJJ1VRDAq23IcRcgGPw6IayPk",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJ1anKDQq23IcR-7e-bTJhsks",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJgcJ-Dgq23IcRmVKK8j3ockU",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJf_uJDgq23IcRNSNMZTfbTGk",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJpcL0BAq23IcRra-EMleROMA",
+          "duration": "221s"
+        }, {
+          "placeId": "ChIJ5RLs-gm23IcRTK94sYSR2os",
+          "duration": "193s"
+        }, {
+          "placeId": "ChIJWaGb2gm23IcRuWpck8OZjVc",
+          "duration": "294s"
+        }, {
+          "placeId": "ChIJ577ZLQi23IcRazcUPM_BLfs",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJAZVsJQi23IcRFcoRwVbR21M",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcR3YxkI5YupEs",
+          "duration": "119s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcRiCstJi3L0w8",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJL4ETBgi23IcRXR_9FcaNq8Y",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJB7bG_Ae23IcRx9lqn11TAyc",
+          "duration": "92s"
+        }, {
+          "placeId": "ChIJN9AX8Ae23IcR7N-evkHf7bo",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJN9AX8Ae23IcRgnEY3IpAw50",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJiSpTjQe23IcRy4RqKwAeQuo",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJf5nZlQe23IcR2-hYMxL84EM",
+          "duration": "221s"
+        }, {
+          "placeId": "ChIJdZ3cuQe23IcRl1nfROYaNDA",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJK0kutAe23IcRZzog-MIXykk",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJw88wSga23IcRMWiTRvjh3cQ",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJNVdyRwa23IcRcQ8dNLyFn28",
+          "duration": "46s"
+        }, {
+          "placeId": "ChIJvT7Saga23IcRORGwUcmsOgY",
+          "duration": "73s"
+        }, {
+          "placeId": "ChIJ_zPkCga23IcRMomfPn2ALss",
+          "duration": "147s"
+        }, {
+          "placeId": "ChIJT23_5gW23IcRPd-OuKLSKfo",
+          "duration": "18s"
+        }, {
+          "placeId": "ChIJ7cpq6wW23IcR45GGnoWzx3U",
+          "duration": "119s"
+        }],
+        "distanceMeters": 3305.9762618202776,
+        "travelMode": "DRIVE",
+        "confidence": 0.9867178771493172
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389339950,
+          "longitudeE7": -923878630,
+          "accuracyMetres": 70
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-12-05T22:41:30.939Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJRfKMRdq13IcRjgOl3pNi4j4",
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203-4719, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 84.716225,
+        "calibratedProbability": 70.5041
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T22:41:30.939Z",
+        "endTimestamp": "2020-12-05T23:04:45.632Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 389339450,
+      "centerLngE7": -923878450,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389339727,
+        "longitudeE7": -923879382,
+        "placeId": "ChIJcwW4Mo613IcRIpx_5aIbinQ",
+        "name": "Extratone",
+        "locationConfidence": 2.3112984,
+        "calibratedProbability": 1.9235513
+      }, {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Onpoint Learning",
+        "locationConfidence": 0.86649954,
+        "calibratedProbability": 0.72113425
+      }, {
+        "latitudeE7": 389338602,
+        "longitudeE7": -923850942,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 0.41490793,
+        "calibratedProbability": 0.34530234
+      }, {
+        "latitudeE7": 389351730,
+        "longitudeE7": -923850453,
+        "placeId": "ChIJWTOiUHO13IcRudj0VGcg_54",
+        "locationConfidence": 0.24378598,
+        "calibratedProbability": 0.20288806
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 69,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339076,
+        "longitudeE7": -923878348,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 389617169,
+        "longitudeE7": -923730376,
+        "sourceInfo": {
+          "deviceTag": -473625733
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T23:04:45.632Z",
+        "endTimestamp": "2020-12-05T23:15:17.941Z"
+      },
+      "distance": 3551,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 88.50147724151611
+      }, {
+        "activityType": "STILL",
+        "probability": 9.449214488267899
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.1566486209630966
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.37705060094594955
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.23197063710540533
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.14196886913850904
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.043799952254630625
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.031595464679412544
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.023072892508935183
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.015929962683003396
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.013127097918186337
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.012870582577306777
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0010008528079197276
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 2.663337681951816E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.816383794714056E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389337196,
+          "lngE7": -923877105
+        }, {
+          "latE7": 389467811,
+          "lngE7": -923808441
+        }, {
+          "latE7": 389617538,
+          "lngE7": -923731460
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJk6wJOdq13IcRSZymliCWQLw",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJeQFsL9q13IcRxDnjKFPZM-E",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJz6dgh9m13IcR3GW1liezeiA",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJRwp2g9m13IcRUtrBBoTYhIA",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJm9s0nNm13IcRThqFVFXEUvk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJOwfSB9m13IcRixY2OLo9y9Q",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJOwfSB9m13IcRlNS2WMMj5CA",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJtVuH8di13IcRuEB0UWFYMRU",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJL2JQm9i13IcRk7bUP656E0w",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJ9_8AIna23IcRNiBA6sXVnpQ",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJSSfMBna23IcRZiPvwOHjv-s",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJIWu8jHW23IcRgdOZFnWaK6A",
+          "duration": "29s"
+        }, {
+          "placeId": "ChIJK3KeZnW23IcRc1ocYyOGQOI",
+          "duration": "33s"
+        }, {
+          "placeId": "ChIJzU_YU3W23IcR0KjnN6HveKc",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJg-eRowq23IcRSrd_C9Dv3Ao",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJbyGTmAq23IcROvlGrxDfV_g",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJDSUemwq23IcRyvGGSJ63gcA",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJz2V_fQq23IcRvGct3mnv1HE",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR45t3WS9tbcs",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJX7SBcAq23IcR5TQjZLRgnMU",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRBkUQtMv8P1w",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJKwnicgq23IcRCQR56YCT8I4",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJJ1VRDAq23IcRcgGPw6IayPk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJ1anKDQq23IcR-7e-bTJhsks",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJgcJ-Dgq23IcRmVKK8j3ockU",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJf_uJDgq23IcRNSNMZTfbTGk",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJpcL0BAq23IcRra-EMleROMA",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJ5RLs-gm23IcRTK94sYSR2os",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJWaGb2gm23IcRuWpck8OZjVc",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJ577ZLQi23IcRazcUPM_BLfs",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJAZVsJQi23IcRFcoRwVbR21M",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcR3YxkI5YupEs",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJt7u_GQi23IcRiCstJi3L0w8",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJL4ETBgi23IcRXR_9FcaNq8Y",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJB7bG_Ae23IcRx9lqn11TAyc",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJN9AX8Ae23IcR7N-evkHf7bo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJN9AX8Ae23IcRgnEY3IpAw50",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJiSpTjQe23IcRy4RqKwAeQuo",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ7yobjge23IcRoieGx1ji0RM",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJjcZUmwe23IcR7YDtkc7WGA8",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJjcZUmwe23IcRGuVXJHZq-OE",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJASqbcAe23IcRRzdjmxZH6wI",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJn1Cbbwe23IcR-L-qLhgwyjc",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJK65uaAe23IcR8Aq5veqIdTM",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJHfZpRQe23IcRGChtMUJfcE4",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJc9a4TQe23IcR7l6p5CAMeOU",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJoTWWogC23IcRUOgnc1NKK-U",
+          "duration": "55s"
+        }, {
+          "placeId": "ChIJsT6lYwC23IcRVfFfu5d5lCE",
+          "duration": "14s"
+        }, {
+          "placeId": "ChIJWSp7rwG23IcRg4m5pjnKars",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJ8arOKAK23IcRVSou_eXxYoM",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJVazWNwK23IcRZoOt9lAWYdE",
+          "duration": "16s"
+        }, {
+          "placeId": "ChIJJRQuTgK23IcRqClmNNI9bv0",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJi8BlVgK23IcRh5c-jCi7_5w",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJ_R8M_AK23IcR81VC3c1Dmk8",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJZWiJ-wK23IcRzgEFNS_YIFQ",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ95i8-wK23IcRQu29fQfn6mo",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJV6B_-gK23IcRPg2GxNbecwo",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJR0yr8QK23IcRbAa_q5GzSZI",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJyfxx7gK23IcRuIt6cXjouHs",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJw3-47gK23IcRhIVNyOZ8nUo",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJb9Fh7wK23IcRzKAfWw6efYM",
+          "duration": "3s"
+        }],
+        "distanceMeters": 4236.9713913110545,
+        "travelMode": "DRIVE",
+        "confidence": 0.9776787720234715
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 389616092,
+          "longitudeE7": -923730322,
+          "accuracyMetres": 70
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-12-05T23:22:37.897Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389634691,
+        "longitudeE7": -923755202,
+        "placeId": "ChIJ8d-EjP3J3IcRk9P8810SIyg",
+        "address": "2300 Bernadette Dr, Columbia, MO 65203, USA",
+        "name": "Columbia Mall",
+        "sourceInfo": {
+          "deviceTag": -473625733
+        },
+        "locationConfidence": 57.92335,
+        "calibratedProbability": 65.255516
+      },
+      "duration": {
+        "startTimestamp": "2020-12-05T23:15:17.941Z",
+        "endTimestamp": "2020-12-05T23:22:37.897Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 389616519,
+          "longitudeE7": -923729782,
+          "placeId": "ChIJ1dgV5gK23IcRCNIbWav5Ilk",
+          "address": "2109 W Worley St, Columbia, MO 65203, USA",
+          "name": "AT\u0026T Store",
+          "sourceInfo": {
+            "deviceTag": -473625733
+          },
+          "locationConfidence": 27.247786,
+          "calibratedProbability": 36.952816,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2020-12-05T23:15:17.941Z",
+          "endTimestamp": "2020-12-05T23:22:37.897Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 389616550,
+        "centerLngE7": -923730300,
+        "visitConfidence": 82,
+        "otherCandidateLocations": [{
+          "latitudeE7": 389628580,
+          "longitudeE7": -923699820,
+          "placeId": "ChIJJY0Gax223IcRNpEJQC1o-HY",
+          "address": "2001 W Worley St Ste 140, Columbia, MO 65203, USA",
+          "name": "Best Buy",
+          "locationConfidence": 11.100484,
+          "calibratedProbability": 15.054219
+        }, {
+          "latitudeE7": 389609900,
+          "longitudeE7": -923741970,
+          "placeId": "ChIJQdBVshy23IcRuoFyh-hMKh8",
+          "address": "229 N Stadium Blvd, Columbia, MO 65203, USA",
+          "name": "PetSmart",
+          "locationConfidence": 6.5750027,
+          "calibratedProbability": 8.916866
+        }, {
+          "latitudeE7": 389616353,
+          "longitudeE7": -923741222,
+          "placeId": "ChIJUZCw-QK23IcRz7JXIb9B6Cw",
+          "address": "2203 W Worley St, Columbia, MO 65203, USA",
+          "name": "Columbia Mall CarWash",
+          "locationConfidence": 5.9092755,
+          "calibratedProbability": 8.014023
+        }, {
+          "latitudeE7": 389600327,
+          "longitudeE7": -923748088,
+          "placeId": "ChIJuUW4tWe23IcRNji83ez-cNc",
+          "address": "217 N Stadium Blvd, Columbia, MO 65203, USA",
+          "name": "Jazz A Louisiana Kitchen",
+          "locationConfidence": 1.1086795,
+          "calibratedProbability": 1.5035655
+        }, {
+          "latitudeE7": 389595372,
+          "longitudeE7": -923720366,
+          "placeId": "ChIJGzc0TwO23IcRw8R3XzlnsFI",
+          "address": "305 N Stadium Blvd, Columbia, MO 65203, USA",
+          "name": "Chick-fil-A",
+          "locationConfidence": 0.67280227,
+          "calibratedProbability": 0.91243887
+        }, {
+          "latitudeE7": 389608960,
+          "longitudeE7": -923720060,
+          "placeId": "ChIJR8YmC_3J3IcRa6_-py0tzNI",
+          "address": "415 N Stadium Blvd, Columbia, MO 65203, USA",
+          "name": "McDonald\u0027s",
+          "locationConfidence": 0.5075112,
+          "calibratedProbability": 0.6882749
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 20,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 389616550,
+      "centerLngE7": -923730300,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389628580,
+        "longitudeE7": -923699820,
+        "placeId": "ChIJJY0Gax223IcRNpEJQC1o-HY",
+        "address": "2001 W Worley St Ste 140, Columbia, MO 65203, USA",
+        "name": "Best Buy",
+        "locationConfidence": 1.6559236,
+        "calibratedProbability": 1.8655368
+      }, {
+        "latitudeE7": 389609900,
+        "longitudeE7": -923741970,
+        "placeId": "ChIJQdBVshy23IcRuoFyh-hMKh8",
+        "address": "229 N Stadium Blvd, Columbia, MO 65203, USA",
+        "name": "PetSmart",
+        "locationConfidence": 1.5723175,
+        "calibratedProbability": 1.7713475
+      }, {
+        "latitudeE7": 389608960,
+        "longitudeE7": -923720060,
+        "placeId": "ChIJR8YmC_3J3IcRa6_-py0tzNI",
+        "address": "415 N Stadium Blvd, Columbia, MO 65203, USA",
+        "name": "McDonald\u0027s",
+        "locationConfidence": 0.85845923,
+        "calibratedProbability": 0.96712637
+      }, {
+        "latitudeE7": 389611197,
+        "longitudeE7": -923739085,
+        "placeId": "ChIJeXGW_gK23IcRJux1CmfPwRM",
+        "address": "233 N Stadium Blvd, Columbia, MO 65203, USA",
+        "name": "Five Guys",
+        "locationConfidence": 0.7342455,
+        "calibratedProbability": 0.82718915
+      }, {
+        "latitudeE7": 389595372,
+        "longitudeE7": -923720366,
+        "placeId": "ChIJGzc0TwO23IcRw8R3XzlnsFI",
+        "address": "305 N Stadium Blvd, Columbia, MO 65203, USA",
+        "name": "Chick-fil-A",
+        "locationConfidence": 0.6060667,
+        "calibratedProbability": 0.682785
+      }, {
+        "latitudeE7": 389609652,
+        "longitudeE7": -923729490,
+        "placeId": "ChIJOcpN1By23IcRnD3r40D-K4Y",
+        "address": "421 N Stadium Blvd Unit 101, Columbia, MO 65203, USA",
+        "name": "Pancheros Mexican Grill",
+        "locationConfidence": 0.5971194,
+        "calibratedProbability": 0.6727051
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

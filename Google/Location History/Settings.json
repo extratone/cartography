@@ -1,0 +1,51 @@
+{
+  "createdTime": "2015-12-29T04:10:21.635Z",
+  "modifiedTime": "2022-07-11T20:56:52.886Z",
+  "historyEnabled": true,
+  "deviceSettings": [{
+    "deviceTag": -1493906586,
+    "reportingEnabled": true,
+    "legalCountryCode": "us",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-07-03T12:45:34.044Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-07-03T12:45:34.044Z"
+    },
+    "iosVersion": "16.0",
+    "deviceSpec": {
+      "device": "iPhone13,4"
+    }
+  }, {
+    "deviceTag": 1248789489,
+    "reportingEnabled": true,
+    "legalCountryCode": "us",
+    "devicePrettyName": "iPad",
+    "platformType": "IOS",
+    "deviceCreationTime": "2021-12-07T21:28:37.727Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2021-12-07T21:28:37.727Z"
+    },
+    "iosVersion": "16.1",
+    "deviceSpec": {
+      "device": "iPad13,9"
+    }
+  }, {
+    "deviceTag": 1904729710,
+    "reportingEnabled": true,
+    "legalCountryCode": "us",
+    "devicePrettyName": "Jorts",
+    "platformType": "IOS",
+    "deviceCreationTime": "2020-12-07T05:47:17.751Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2020-12-07T05:47:17.751Z"
+    },
+    "iosVersion": "15.5",
+    "deviceSpec": {
+      "device": "iPhone13,4"
+    }
+  }],
+  "retentionWindowDays": 2147483647,
+  "hasReportedLocations": true,
+  "hasSetRetention": false
+}

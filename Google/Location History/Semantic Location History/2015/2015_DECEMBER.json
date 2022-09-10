@@ -1,0 +1,2016 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389106798,
+        "longitudeE7": -923326279
+      },
+      "endLocation": {
+        "latitudeE7": 389516372,
+        "longitudeE7": -923276936
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T04:10:24.999Z",
+        "endTimestamp": "2015-12-29T05:54:43.240Z"
+      },
+      "distance": 4574,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389106521,
+          "lngE7": -923326339
+        }, {
+          "latE7": 389515342,
+          "lngE7": -923276901
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5693.497491093785,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389511790,
+        "longitudeE7": -923279407,
+        "placeId": "ChIJjW2NY8S33IcR4GX2bYBXO-o",
+        "address": "816 E Broadway, Columbia, Missouri 65201, United States",
+        "name": "Broadway Brewery",
+        "locationConfidence": 9.844589
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T05:54:43.240Z",
+        "endTimestamp": "2015-12-29T06:41:51.999Z"
+      },
+      "centerLatE7": 389516567,
+      "centerLngE7": -923276467,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389517623,
+        "longitudeE7": -923277070,
+        "placeId": "ChIJ652-iMS33IcRy4XoJ84euJM",
+        "address": "827 E Broadway, Columbia, MO 65201, USA",
+        "name": "Bingham\u0027s Traditional Clothing",
+        "locationConfidence": 8.728795
+      }, {
+        "latitudeE7": 389512613,
+        "longitudeE7": -923277344,
+        "placeId": "ChIJw9VTY8S33IcRlia0JK4Px9Y",
+        "address": "820 E Broadway, Columbia, MO 65201, USA",
+        "name": "Tellers Gallery \u0026 Bar",
+        "locationConfidence": 7.8179502
+      }, {
+        "latitudeE7": 389521610,
+        "longitudeE7": -923276890,
+        "placeId": "ChIJf5kukMS33IcRcRjJ6-uXnEs",
+        "address": "17 N 9th St, Columbia, MO 65201, USA",
+        "name": "The Blue Note",
+        "locationConfidence": 5.1309958
+      }, {
+        "latitudeE7": 389519337,
+        "longitudeE7": -923276963,
+        "placeId": "ChIJJ_xOhMS33IcR2nq2emAfEnI",
+        "address": "9 N 9th St, Columbia, MO 65201, USA",
+        "name": "Leo\u0027s Old Clothes",
+        "locationConfidence": 2.9263902
+      }, {
+        "latitudeE7": 389519959,
+        "longitudeE7": -923276984,
+        "placeId": "ChIJ7-ufhcS33IcRZlVOt7rSLUk",
+        "address": "11 N 9th St, Columbia, MO 65201, USA",
+        "name": "Coffee Zone",
+        "locationConfidence": 2.282862
+      }, {
+        "latitudeE7": 389518724,
+        "longitudeE7": -923276984,
+        "placeId": "ChIJ_Qs9j8S33IcRN7BGD0BzSPU",
+        "address": "7 N 9th St, Columbia, MO 65201, USA",
+        "name": "Dryer\u0027s Shoe Store",
+        "locationConfidence": 2.1316369
+      }, {
+        "latitudeE7": 389516880,
+        "longitudeE7": -923277690,
+        "placeId": "ChIJ652-iMS33IcR_K2btmWhNzo",
+        "address": "827 E Broadway, Columbia, MO 65201, USA",
+        "name": "McPheeters Group, LLC",
+        "locationConfidence": 1.8924134
+      }, {
+        "latitudeE7": 389512304,
+        "longitudeE7": -923279916,
+        "placeId": "ChIJ0SyBfcS33IcR_HShoPN2HsE",
+        "address": "5 S 9th St, Columbia, MO 65201, USA",
+        "name": "True/False",
+        "locationConfidence": 1.8563188
+      }, {
+        "latitudeE7": 389524561,
+        "longitudeE7": -923278191,
+        "placeId": "ChIJS54kmsS33IcRvh_kX1R8dYc",
+        "address": "33 N 9th St, Columbia, MO 65201, USA",
+        "name": "La Siesta",
+        "locationConfidence": 1.297643
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 15,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389516147,
+        "longitudeE7": -923277338
+      },
+      "endLocation": {
+        "latitudeE7": 389339179,
+        "longitudeE7": -923878082
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T06:41:51.999Z",
+        "endTimestamp": "2015-12-29T07:01:58.930Z"
+      },
+      "distance": 6008,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389515342,
+          "lngE7": -923277359
+        }, {
+          "latE7": 389337196,
+          "lngE7": -923877105
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 7369.189235797005,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Road, Columbia, Missouri 65203, United States",
+        "name": "OnPoint Learning Center, Cathy Cook",
+        "locationConfidence": 42.918083
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T07:01:58.930Z",
+        "endTimestamp": "2015-12-29T12:01:08.999Z"
+      },
+      "centerLatE7": 389338600,
+      "centerLngE7": -923877200,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389341447,
+        "longitudeE7": -923881777,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 27.596613
+      }, {
+        "latitudeE7": 389337180,
+        "longitudeE7": -923877100,
+        "placeId": "ChIJuT3aRtq13IcRw1zML7aY9so",
+        "address": "1900 S Scott Blvd, Columbia, MO 65203, USA",
+        "name": "Landmark Bank Mortgage Center",
+        "locationConfidence": 21.458246
+      }, {
+        "latitudeE7": 389337193,
+        "longitudeE7": -923853732,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 3.8050203
+      }, {
+        "latitudeE7": 389339700,
+        "longitudeE7": -923848760,
+        "placeId": "ChIJeevnvNm13IcRSju2yxGtZUI",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Mother\u0027s Morning Out",
+        "locationConfidence": 3.2508786
+      }, {
+        "latitudeE7": 389334300,
+        "longitudeE7": -923907870,
+        "placeId": "ChIJObe01se13IcRixmkE8OZE6Y",
+        "address": "3211 S Providence Rd #111, Columbia, MO 65203, USA",
+        "name": "Downes Productions",
+        "locationConfidence": 0.97115755
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389338625,
+        "longitudeE7": -923878135
+      },
+      "endLocation": {
+        "latitudeE7": 389535906,
+        "longitudeE7": -923834019
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T12:01:08.999Z",
+        "endTimestamp": "2015-12-29T12:11:43.077Z"
+      },
+      "distance": 2226,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389337196,
+          "lngE7": -923877105
+        }, {
+          "latE7": 389537048,
+          "lngE7": -923833847
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2823.2095887367477,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389535692,
+        "longitudeE7": -923836050,
+        "placeId": "ChIJXZjDOv213IcRW8yPnenrNus",
+        "address": "3100 West Broadway, Columbia, Missouri 65203, United States",
+        "name": "Hy-Vee",
+        "locationConfidence": 23.14621
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T12:11:43.077Z",
+        "endTimestamp": "2015-12-29T12:38:30.500Z"
+      },
+      "centerLatE7": 389538600,
+      "centerLngE7": -923835150,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389532594,
+        "longitudeE7": -923836099,
+        "placeId": "ChIJXZjDOv213IcRizLblcRvpDk",
+        "address": "3100 W Broadway, Columbia, MO 65203, USA",
+        "name": "Commerce Bank",
+        "locationConfidence": 11.102652
+      }, {
+        "latitudeE7": 389546366,
+        "longitudeE7": -923844273,
+        "placeId": "ChIJUfzTGv213IcRIUzOI1aJcxY",
+        "address": "3100 W Broadway, Columbia, MO 65203, USA",
+        "name": "Hy-Vee Gas",
+        "locationConfidence": 5.734892
+      }, {
+        "latitudeE7": 389556882,
+        "longitudeE7": -923838290,
+        "placeId": "ChIJfUg6A_213IcR2ADpwQmtb3c",
+        "address": "W Broadway, Columbia, MO 65203, USA",
+        "name": "Fairview Market Place",
+        "locationConfidence": 4.587026
+      }, {
+        "latitudeE7": 389546617,
+        "longitudeE7": -923843389,
+        "placeId": "ChIJUfzTGv213IcRIUzOI1aJcxY",
+        "address": "3100 W Broadway, Columbia, MO 65203, USA",
+        "name": "Hy-Vee Gas",
+        "locationConfidence": 4.1014366
+      }, {
+        "latitudeE7": 389534437,
+        "longitudeE7": -923865463,
+        "placeId": "ChIJTZkeWPu13IcRgjXlmrtJTL0",
+        "address": "3304 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Truman\u0027s Bar \u0026 Grill",
+        "locationConfidence": 3.0108416
+      }, {
+        "latitudeE7": 389533412,
+        "longitudeE7": -923837218,
+        "placeId": "ChIJXZjDOv213IcRqi8Q0x52vjo",
+        "address": "3100 W Broadway, Columbia, MO 65203, USA",
+        "name": "Redbox",
+        "locationConfidence": 2.779361
+      }, {
+        "latitudeE7": 389571370,
+        "longitudeE7": -923823530,
+        "placeId": "ChIJcwm6lv213IcREtQ-mf5XZXw",
+        "address": "3001 W Broadway, Columbia, MO 65203, USA",
+        "name": "Walmart Supercenter",
+        "locationConfidence": 2.6009247
+      }, {
+        "latitudeE7": 389554574,
+        "longitudeE7": -923811191,
+        "placeId": "ChIJeSxrgQe23IcRf2-_e1Qs6wc",
+        "address": "2901 W Broadway, Columbia, MO 65203, USA",
+        "name": "Starbucks",
+        "locationConfidence": 2.587463
+      }, {
+        "latitudeE7": 389568471,
+        "longitudeE7": -923833295,
+        "placeId": "ChIJH2s4A_213IcRjmXrSzN8ddY",
+        "address": "3101 W Broadway #105, Columbia, MO 65203, USA",
+        "name": "Game City",
+        "locationConfidence": 2.5844676
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389539735,
+        "longitudeE7": -923834894
+      },
+      "endLocation": {
+        "latitudeE7": 389457958,
+        "longitudeE7": -923866140
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T12:38:30.500Z",
+        "endTimestamp": "2015-12-29T13:05:42.265Z"
+      },
+      "distance": 948,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389539680,
+          "lngE7": -923834381
+        }, {
+          "latE7": 389457931,
+          "lngE7": -923869476
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1407.3612534943245,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389457958,
+        "longitudeE7": -923866140
+      },
+      "endLocation": {
+        "latitudeE7": 389339426,
+        "longitudeE7": -923880508
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T13:05:42.265Z",
+        "endTimestamp": "2015-12-29T14:07:57.242Z"
+      },
+      "distance": 1323,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389463539,
+          "lngE7": -923870391
+        }, {
+          "latE7": 389338684,
+          "lngE7": -923881530
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2462.673097425774,
+        "travelMode": "DRIVE",
+        "confidence": 0.4863264822455602
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Road, Columbia, Missouri 65203, United States",
+        "name": "OnPoint Learning Center, Cathy Cook",
+        "locationConfidence": 35.63067
+      },
+      "duration": {
+        "startTimestamp": "2015-12-29T14:07:57.242Z",
+        "endTimestamp": "2015-12-30T00:00:00Z"
+      },
+      "centerLatE7": 389339367,
+      "centerLngE7": -923880233,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389341447,
+        "longitudeE7": -923881777,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 27.185692
+      }, {
+        "latitudeE7": 389337180,
+        "longitudeE7": -923877100,
+        "placeId": "ChIJuT3aRtq13IcRw1zML7aY9so",
+        "address": "1900 S Scott Blvd, Columbia, MO 65203, USA",
+        "name": "Landmark Bank Mortgage Center",
+        "locationConfidence": 14.185826
+      }, {
+        "latitudeE7": 389337193,
+        "longitudeE7": -923853732,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 13.928364
+      }, {
+        "latitudeE7": 389339700,
+        "longitudeE7": -923848760,
+        "placeId": "ChIJeevnvNm13IcRSju2yxGtZUI",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Mother\u0027s Morning Out",
+        "locationConfidence": 4.965865
+      }, {
+        "latitudeE7": 389367949,
+        "longitudeE7": -923885500,
+        "placeId": "ChIJr8m8g9u13IcRAXbeERqaoQA",
+        "address": "1605 Jake Ln, Columbia, MO 65203, USA",
+        "name": "Kramer J Andrew",
+        "locationConfidence": 2.1790388
+      }, {
+        "latitudeE7": 389334300,
+        "longitudeE7": -923907870,
+        "placeId": "ChIJObe01se13IcRixmkE8OZE6Y",
+        "address": "3211 S Providence Rd #111, Columbia, MO 65203, USA",
+        "name": "Downes Productions",
+        "locationConfidence": 1.924548
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 36,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339489,
+        "longitudeE7": -923879990
+      },
+      "endLocation": {
+        "latitudeE7": 389490213,
+        "longitudeE7": -923749499
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T02:45:06.174Z",
+        "endTimestamp": "2015-12-30T03:16:46Z"
+      },
+      "distance": 5379,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389338531,
+          "lngE7": -923881301
+        }, {
+          "latE7": 389490089,
+          "lngE7": -923749465
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2668.7512450043023,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389489403,
+        "longitudeE7": -923751470
+      },
+      "endLocation": {
+        "latitudeE7": 389540119,
+        "longitudeE7": -923283609
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T03:26:06.999Z",
+        "endTimestamp": "2015-12-30T03:55:58.758Z"
+      },
+      "distance": 4100,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389490051,
+          "lngE7": -923751449
+        }, {
+          "latE7": 389540100,
+          "lngE7": -923283691
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4928.218772033859,
+        "travelMode": "DRIVE",
+        "confidence": 0.9357859817482979
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389542622,
+        "longitudeE7": -923279135
+      },
+      "endLocation": {
+        "latitudeE7": 389517675,
+        "longitudeE7": -923283287
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T04:04:13.011Z",
+        "endTimestamp": "2015-12-30T09:42:42.207Z"
+      },
+      "distance": 279,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389545402,
+          "lngE7": -923279037
+        }, {
+          "latE7": 389515838,
+          "lngE7": -923283386
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 436.0766321929133,
+        "travelMode": "WALK",
+        "confidence": 0.9414665081610378
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389521610,
+        "longitudeE7": -923276890,
+        "placeId": "ChIJf5kukMS33IcRcRjJ6-uXnEs",
+        "address": "17 North 9th Street, Columbia, Missouri 65201-4845, United States",
+        "name": "The Blue Note",
+        "locationConfidence": 4.383022
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T09:42:42.207Z",
+        "endTimestamp": "2015-12-30T10:16:43.605Z"
+      },
+      "centerLatE7": 389517000,
+      "centerLngE7": -923282800,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389519208,
+        "longitudeE7": -923290973,
+        "placeId": "ChIJ8cYo_MS33IcRQwaHjdPc690",
+        "address": "City Managers Office, 701 E Broadway, Columbia, MO 65205, USA",
+        "name": "Columbia City Council",
+        "locationConfidence": 3.5798628
+      }, {
+        "latitudeE7": 389511790,
+        "longitudeE7": -923279407,
+        "placeId": "ChIJjW2NY8S33IcR4GX2bYBXO-o",
+        "address": "816 E Broadway, Columbia, MO 65201, USA",
+        "name": "Broadway Brewery",
+        "locationConfidence": 3.13128
+      }, {
+        "latitudeE7": 389508660,
+        "longitudeE7": -923287980,
+        "placeId": "ChIJU_sAUMS33IcRy--0g1vMwH4",
+        "address": "23 S 8th St, Columbia, MO 65201, USA",
+        "name": "The Tiger Hotel",
+        "locationConfidence": 3.060715
+      }, {
+        "latitudeE7": 389518299,
+        "longitudeE7": -923282212,
+        "placeId": "ChIJBVaCjMS33IcRT7ql8xDZg5o",
+        "address": "801 E Broadway, Columbia, MO 65201, USA",
+        "name": "Landmark Bank",
+        "locationConfidence": 2.5363226
+      }, {
+        "latitudeE7": 389518860,
+        "longitudeE7": -923281949,
+        "placeId": "ChIJpx-MjMS33IcRXUOtPP7kIco",
+        "name": "Landrum Co",
+        "locationConfidence": 2.335527
+      }, {
+        "latitudeE7": 389514200,
+        "longitudeE7": -923283060,
+        "placeId": "ChIJyasMYMS33IcRCe4jCTxBAv4",
+        "address": "808 E Broadway, Columbia, MO 65201, USA",
+        "name": "Rally House Columbia",
+        "locationConfidence": 2.300432
+      }, {
+        "latitudeE7": 389512304,
+        "longitudeE7": -923279916,
+        "placeId": "ChIJ0SyBfcS33IcR_HShoPN2HsE",
+        "address": "5 S 9th St, Columbia, MO 65201, USA",
+        "name": "True/False",
+        "locationConfidence": 2.060658
+      }, {
+        "latitudeE7": 389513934,
+        "longitudeE7": -923284669,
+        "placeId": "ChIJTbJjXsS33IcRBab4EFtlEgI",
+        "address": "800 E Broadway, Columbia, MO 65201, USA",
+        "name": "Sycamore Restaurant",
+        "locationConfidence": 1.7014488
+      }, {
+        "latitudeE7": 389403808,
+        "longitudeE7": -923277375,
+        "placeId": "ChIJOYftBZW33IcRSPsHnDIFg8E",
+        "address": "Columbia, MO 65211, USA",
+        "name": "University of Missouri",
+        "locationConfidence": 1.6301327
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 10,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389516425,
+        "longitudeE7": -923282442
+      },
+      "endLocation": {
+        "latitudeE7": 389455918,
+        "longitudeE7": -923864348
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T10:16:43.605Z",
+        "endTimestamp": "2015-12-30T10:42:32.005Z"
+      },
+      "distance": 5134,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389515457,
+          "lngE7": -923282470
+        }, {
+          "latE7": 389463348,
+          "lngE7": -923870925
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 6041.752668079159,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389437833,
+        "longitudeE7": -923875331,
+        "placeId": "ChIJW3WLB-e13IcRUDP90UIu3Qk",
+        "address": "3300 Rollins Road, Columbia, MO 65203, United States",
+        "name": "Bonnie View Nature Sanctuary",
+        "locationConfidence": 82.01117
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T10:42:32.005Z",
+        "endTimestamp": "2015-12-30T11:39:17.475Z"
+      },
+      "centerLatE7": 389457675,
+      "centerLngE7": -923865450,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389418899,
+        "longitudeE7": -923844475,
+        "placeId": "ChIJNfVo0N-13IcRKLp5NqB-57s",
+        "address": "1001 S Fairview Rd, Columbia, MO 65203, USA",
+        "name": "Fairview Park",
+        "locationConfidence": 9.515829
+      }, {
+        "latitudeE7": 389430863,
+        "longitudeE7": -923847368,
+        "placeId": "ChIJiy3imeC13IcRcwTbQDPhkJQ",
+        "address": "1014 Westport Dr, Columbia, MO 65203, USA",
+        "name": "Garden Plots",
+        "locationConfidence": 6.3788433
+      }, {
+        "latitudeE7": 389471559,
+        "longitudeE7": -923818154,
+        "placeId": "ChIJ02GVDgq23IcRJxr9kOo7_xg",
+        "address": "2901 W Rollins Rd, Columbia, MO 65203, USA",
+        "name": "Chateau Apartments",
+        "locationConfidence": 0.8470319
+      }, {
+        "latitudeE7": 389432281,
+        "longitudeE7": -923815869,
+        "placeId": "ChIJGVEuA-C13IcRhFX7j9_O5F8",
+        "address": "909 S Fairview Rd, Columbia, MO 65203, USA",
+        "name": "Fairview Shelter",
+        "locationConfidence": 0.8137667
+      }, {
+        "latitudeE7": 389427758,
+        "longitudeE7": -923813429,
+        "placeId": "ChIJ-Xd-qgq23IcRUJ90un0uXG0",
+        "address": "S Fairview Rd, Columbia, MO 65203, USA",
+        "name": "Public Restroom - Seasonal",
+        "locationConfidence": 0.39338523
+      }, {
+        "latitudeE7": 389483198,
+        "longitudeE7": -923884243,
+        "placeId": "ChIJwXhmMuS13IcRA826KB2zZ8Q",
+        "name": "Hyde Homes \u0026 Remodeling",
+        "locationConfidence": 0.03997632
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389458369,
+        "longitudeE7": -923865934
+      },
+      "endLocation": {
+        "latitudeE7": 389327671,
+        "longitudeE7": -923984098,
+        "placeId": "ChIJn-_aNMa13IcR1JVCSRRlUx8",
+        "address": "The Village of Cherry Hill, Columbia, Missouri 65203, United States",
+        "name": "The Magic Tree",
+        "locationConfidence": 13.801386
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T11:39:17.475Z",
+        "endTimestamp": "2015-12-30T11:48:34.999Z"
+      },
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389463958,
+          "lngE7": -923869934
+        }, {
+          "latE7": 389491195,
+          "lngE7": -923955764
+        }, {
+          "latE7": 389330978,
+          "lngE7": -923982315
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 3423.3986067038745,
+        "travelMode": "DRIVE",
+        "confidence": 0.9316213791135787
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389492340,
+          "lngE7": -923955612,
+          "accuracyMeters": 10,
+          "timestamp": "2015-12-30T11:44:20Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389327671,
+        "longitudeE7": -923984098,
+        "placeId": "ChIJn-_aNMa13IcR1JVCSRRlUx8",
+        "address": "The Village of Cherry Hill, Columbia, Missouri 65203, United States",
+        "name": "The Magic Tree",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 13.801386
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T11:48:34.999Z",
+        "endTimestamp": "2015-12-30T12:41:22.040Z"
+      },
+      "centerLatE7": 389331133,
+      "centerLngE7": -923982733,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389327188,
+        "longitudeE7": -923990611,
+        "placeId": "ChIJtaAyz8e13IcRUrDLYQhyMR4",
+        "address": "2011 Corona Rd, Columbia, MO 65203, USA",
+        "name": "Cherry Hill Event Center",
+        "locationConfidence": 8.79416
+      }, {
+        "latitudeE7": 389322275,
+        "longitudeE7": -923989098,
+        "placeId": "ChIJ-TGHzce13IcR1ZLj6Cmsf-g",
+        "address": "2101 Corona Rd, Columbia, MO 65203, USA",
+        "name": "Anytime Fitness",
+        "locationConfidence": 5.0311623
+      }, {
+        "latitudeE7": 389329842,
+        "longitudeE7": -923988931,
+        "placeId": "ChIJtaAyz8e13IcRQes530VQOkU",
+        "address": "2011 Corona Rd STE 207, Columbia, MO 65203, USA",
+        "name": "DeSpain Cayce Dermatology Center \u0026 Medical Spa",
+        "locationConfidence": 3.2223306
+      }, {
+        "latitudeE7": 389328946,
+        "longitudeE7": -923978309,
+        "placeId": "ChIJnS5xOca13IcRR1A1eiQ1hRc",
+        "address": "220 Diego Ct, Columbia, MO 65203, USA",
+        "name": "Cherry Hill Dental Associates",
+        "locationConfidence": 2.6694167
+      }, {
+        "latitudeE7": 389322305,
+        "longitudeE7": -923984007,
+        "placeId": "ChIJh6I3vYq23IcRab0nTHagFe8",
+        "name": "Revelation Spa \u0026 Salon",
+        "locationConfidence": 2.306412
+      }, {
+        "latitudeE7": 389333052,
+        "longitudeE7": -923989220,
+        "placeId": "ChIJfeIEt8e13IcRJ_5ff6DQ_fc",
+        "address": "2001 Corona Rd #301, Columbia, MO 65203, USA",
+        "name": "Dr. Sally C. Powell, DDS",
+        "locationConfidence": 1.8259647
+      }, {
+        "latitudeE7": 389328499,
+        "longitudeE7": -923990008,
+        "placeId": "ChIJtaAyz8e13IcRAPV0KLYrytU",
+        "address": "2011 Corona Rd #303, Columbia, MO 65203, USA",
+        "name": "The Perlman - Stoy School of Ballet",
+        "locationConfidence": 1.7598326
+      }, {
+        "latitudeE7": 389329714,
+        "longitudeE7": -923978070,
+        "placeId": "ChIJ_QCUasa13IcRWAst5WPnQUA",
+        "address": "2012 Cherry Hill Dr # 202E, Columbia, MO 65203, USA",
+        "name": "Experience Works",
+        "locationConfidence": 1.7488527
+      }, {
+        "latitudeE7": 389330631,
+        "longitudeE7": -923978084,
+        "placeId": "ChIJ_QCUasa13IcRQGNk5IXELUo",
+        "address": "2012 Cherry Hill Dr #201, Columbia, MO 65203, USA",
+        "name": "Andrew Stone Optometry",
+        "locationConfidence": 1.69881
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 18,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389331524,
+        "longitudeE7": -923982314
+      },
+      "endLocation": {
+        "latitudeE7": 389339729,
+        "longitudeE7": -923879071
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T12:41:22.040Z",
+        "endTimestamp": "2015-12-30T12:57:50.332Z"
+      },
+      "distance": 897,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389330978,
+          "lngE7": -923982315
+        }, {
+          "latE7": 389338302,
+          "lngE7": -923881072
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1024.6764485790761,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Road, Columbia, Missouri 65203, United States",
+        "name": "OnPoint Learning Center, Cathy Cook",
+        "locationConfidence": 43.60457
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T12:57:50.332Z",
+        "endTimestamp": "2015-12-30T20:35:53.999Z"
+      },
+      "centerLatE7": 389339433,
+      "centerLngE7": -923878767,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389341447,
+        "longitudeE7": -923881777,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 23.517078
+      }, {
+        "latitudeE7": 389337180,
+        "longitudeE7": -923877100,
+        "placeId": "ChIJuT3aRtq13IcRw1zML7aY9so",
+        "address": "1900 S Scott Blvd, Columbia, MO 65203, USA",
+        "name": "Landmark Bank Mortgage Center",
+        "locationConfidence": 17.55385
+      }, {
+        "latitudeE7": 389337193,
+        "longitudeE7": -923853732,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 9.584748
+      }, {
+        "latitudeE7": 389339700,
+        "longitudeE7": -923848760,
+        "placeId": "ChIJeevnvNm13IcRSju2yxGtZUI",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Mother\u0027s Morning Out",
+        "locationConfidence": 3.4786394
+      }, {
+        "latitudeE7": 389367949,
+        "longitudeE7": -923885500,
+        "placeId": "ChIJr8m8g9u13IcRAXbeERqaoQA",
+        "address": "1605 Jake Ln, Columbia, MO 65203, USA",
+        "name": "Kramer J Andrew",
+        "locationConfidence": 1.2904114
+      }, {
+        "latitudeE7": 389334300,
+        "longitudeE7": -923907870,
+        "placeId": "ChIJObe01se13IcRixmkE8OZE6Y",
+        "address": "3211 S Providence Rd #111, Columbia, MO 65203, USA",
+        "name": "Downes Productions",
+        "locationConfidence": 0.9707057
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339390,
+        "longitudeE7": -923879850
+      },
+      "endLocation": {
+        "latitudeE7": 389107313,
+        "longitudeE7": -923329008
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T20:35:53.999Z",
+        "endTimestamp": "2015-12-30T20:47:10.040Z"
+      },
+      "distance": 5419,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389338417,
+          "lngE7": -923881225
+        }, {
+          "latE7": 389106826,
+          "lngE7": -923329086
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 7577.939793964857,
+        "travelMode": "DRIVE",
+        "confidence": 0.9999947421272705
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389113044,
+        "longitudeE7": -923323317,
+        "placeId": "ChIJnwMNoxq33IcR91aL0SZRVt8",
+        "address": "Columbia, Missouri 65201, United States",
+        "name": "Rock Bridge Shopping Center",
+        "locationConfidence": 20.88907
+      },
+      "duration": {
+        "startTimestamp": "2015-12-30T20:47:10.040Z",
+        "endTimestamp": "2015-12-31T05:01:50.999Z"
+      },
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 389105475,
+          "longitudeE7": -923326294,
+          "placeId": "ChIJ2_h9zxq33IcRS_8P3CymM4g",
+          "address": "501 E Nifong Blvd, Columbia, MO 65201, United States",
+          "name": "Hy-Vee Gas",
+          "locationConfidence": 13.520191
+        },
+        "duration": {
+          "startTimestamp": "2015-12-31T00:00:00Z",
+          "endTimestamp": "2015-12-31T05:01:50.999Z"
+        },
+        "centerLatE7": 389107229,
+        "centerLngE7": -923328471,
+        "visitConfidence": 76,
+        "otherCandidateLocations": [{
+          "latitudeE7": 389117339,
+          "longitudeE7": -923324897,
+          "placeId": "ChIJEyCg5Rq33IcR3tj4qrAm2KA",
+          "address": "503 E Nifong Blvd Ste H, Columbia, MO 65201, USA",
+          "name": "The UPS Store",
+          "locationConfidence": 11.383749
+        }, {
+          "latitudeE7": 389103989,
+          "longitudeE7": -923317711,
+          "placeId": "ChIJ_ZJd_Rq33IcRYmnP9Ml_4tA",
+          "address": "505 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Buffalo Wild Wings",
+          "locationConfidence": 5.9588184
+        }, {
+          "latitudeE7": 389112770,
+          "longitudeE7": -923317230,
+          "placeId": "ChIJAV1d_Rq33IcRBp20Ee16TrY",
+          "address": "509 E Nifong Blvd, Columbia, MO 65201, USA",
+          "name": "Jo-Ann Fabrics and Crafts",
+          "locationConfidence": 3.1925154
+        }, {
+          "latitudeE7": 389096076,
+          "longitudeE7": -923340690,
+          "placeId": "ChIJebj9Vxq33IcRxtNmkJMFW2M",
+          "locationConfidence": 2.8980494
+        }, {
+          "latitudeE7": 389113600,
+          "longitudeE7": -923338000,
+          "placeId": "ChIJ2_h9zxq33IcRL0G_gshRnvI",
+          "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+          "name": "Hy-Vee",
+          "locationConfidence": 2.3627608
+        }, {
+          "latitudeE7": 389108417,
+          "longitudeE7": -923317229,
+          "placeId": "ChIJAdyvdRC33IcRgE0hRD2Utc4",
+          "address": "505 E Nifong Blvd #103, Columbia, MO 65201, USA",
+          "name": "Sumits Hot Yoga Columbia",
+          "locationConfidence": 2.1330063
+        }, {
+          "latitudeE7": 389110333,
+          "longitudeE7": -923310847,
+          "placeId": "ChIJbz-9aRC33IcRqWgyKiF8Ilk",
+          "address": "3601 Buttonwood Dr, Columbia, MO 65203, USA",
+          "name": "Tiger Bounce",
+          "locationConfidence": 2.0491786
+        }, {
+          "latitudeE7": 389117281,
+          "longitudeE7": -923325529,
+          "placeId": "ChIJ_fprqBq33IcRg4HkIk2u7Ec",
+          "address": "503 E Nifong Blvd, Columbia, MO 65201, USA",
+          "name": "Show-Me Tickets",
+          "locationConfidence": 1.9920872
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 18,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 389107229,
+      "centerLngE7": -923328471,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389105475,
+        "longitudeE7": -923326294,
+        "placeId": "ChIJ2_h9zxq33IcRS_8P3CymM4g",
+        "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+        "name": "Hy-Vee Gas",
+        "locationConfidence": 10.695949
+      }, {
+        "latitudeE7": 389117339,
+        "longitudeE7": -923324897,
+        "placeId": "ChIJEyCg5Rq33IcR3tj4qrAm2KA",
+        "address": "503 E Nifong Blvd Ste H, Columbia, MO 65201, USA",
+        "name": "The UPS Store",
+        "locationConfidence": 9.00579
+      }, {
+        "latitudeE7": 389103989,
+        "longitudeE7": -923317711,
+        "placeId": "ChIJ_ZJd_Rq33IcRYmnP9Ml_4tA",
+        "address": "505 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Buffalo Wild Wings",
+        "locationConfidence": 4.7140765
+      }, {
+        "latitudeE7": 389112770,
+        "longitudeE7": -923317230,
+        "placeId": "ChIJAV1d_Rq33IcRBp20Ee16TrY",
+        "address": "509 E Nifong Blvd, Columbia, MO 65201, USA",
+        "name": "Jo-Ann Fabrics and Crafts",
+        "locationConfidence": 2.5256286
+      }, {
+        "latitudeE7": 389096076,
+        "longitudeE7": -923340690,
+        "placeId": "ChIJebj9Vxq33IcRxtNmkJMFW2M",
+        "locationConfidence": 2.2926738
+      }, {
+        "latitudeE7": 389113600,
+        "longitudeE7": -923338000,
+        "placeId": "ChIJ2_h9zxq33IcRL0G_gshRnvI",
+        "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+        "name": "Hy-Vee",
+        "locationConfidence": 1.869202
+      }, {
+        "latitudeE7": 389108417,
+        "longitudeE7": -923317229,
+        "placeId": "ChIJAdyvdRC33IcRgE0hRD2Utc4",
+        "address": "505 E Nifong Blvd #103, Columbia, MO 65201, USA",
+        "name": "Sumits Hot Yoga Columbia",
+        "locationConfidence": 1.6874412
+      }, {
+        "latitudeE7": 389110333,
+        "longitudeE7": -923310847,
+        "placeId": "ChIJbz-9aRC33IcRqWgyKiF8Ilk",
+        "address": "3601 Buttonwood Dr, Columbia, MO 65203, USA",
+        "name": "Tiger Bounce",
+        "locationConfidence": 1.6211241
+      }, {
+        "latitudeE7": 389117281,
+        "longitudeE7": -923325529,
+        "placeId": "ChIJ_fprqBq33IcRg4HkIk2u7Ec",
+        "address": "503 E Nifong Blvd, Columbia, MO 65201, USA",
+        "name": "Show-Me Tickets",
+        "locationConfidence": 1.5759587
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 24,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389106007,
+        "longitudeE7": -923326855
+      },
+      "endLocation": {
+        "latitudeE7": 389341447,
+        "longitudeE7": -923881777,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "address": "1708 Oak Cliff Pl, Columbia, MO 65203-4719, United States",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 49.713535
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T05:01:50.999Z",
+        "endTimestamp": "2015-12-31T05:35:53.999Z"
+      },
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389106559,
+          "lngE7": -923326797
+        }, {
+          "latE7": 389338531,
+          "lngE7": -923881301
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 7467.788121592564,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389341447,
+        "longitudeE7": -923881777,
+        "placeId": "ChIJS3QvTtq13IcRKKcHBZ2ynvY",
+        "address": "1708 Oak Cliff Pl, Columbia, MO 65203-4719, United States",
+        "name": "Midstates Furniture Reps",
+        "locationConfidence": 49.713535
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T05:35:53.999Z",
+        "endTimestamp": "2015-12-31T05:58:46.688Z"
+      },
+      "centerLatE7": 389339567,
+      "centerLngE7": -923879900,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389337170,
+        "longitudeE7": -923877090,
+        "placeId": "ChIJTzaLMBC33IcR2DHiwVSwTD4",
+        "address": "Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "OnPoint Learning Center, Cathy Cook",
+        "locationConfidence": 23.55744
+      }, {
+        "latitudeE7": 389337180,
+        "longitudeE7": -923877100,
+        "placeId": "ChIJuT3aRtq13IcRw1zML7aY9so",
+        "address": "1900 S Scott Blvd, Columbia, MO 65203, USA",
+        "name": "Landmark Bank Mortgage Center",
+        "locationConfidence": 16.060888
+      }, {
+        "latitudeE7": 389337193,
+        "longitudeE7": -923853732,
+        "placeId": "ChIJiyjxu9m13IcRDUn6Xp-zT20",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Fairview United Methodist Church",
+        "locationConfidence": 3.5963526
+      }, {
+        "latitudeE7": 389339700,
+        "longitudeE7": -923848760,
+        "placeId": "ChIJeevnvNm13IcRSju2yxGtZUI",
+        "address": "3200 Chapel Hill Rd, Columbia, MO 65203, USA",
+        "name": "Mother\u0027s Morning Out",
+        "locationConfidence": 2.8765244
+      }, {
+        "latitudeE7": 389367949,
+        "longitudeE7": -923885500,
+        "placeId": "ChIJr8m8g9u13IcRAXbeERqaoQA",
+        "address": "1605 Jake Ln, Columbia, MO 65203, USA",
+        "name": "Kramer J Andrew",
+        "locationConfidence": 2.598287
+      }, {
+        "latitudeE7": 389334300,
+        "longitudeE7": -923907870,
+        "placeId": "ChIJObe01se13IcRixmkE8OZE6Y",
+        "address": "3211 S Providence Rd #111, Columbia, MO 65203, USA",
+        "name": "Downes Productions",
+        "locationConfidence": 1.5969708
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389339670,
+        "longitudeE7": -923879698
+      },
+      "endLocation": {
+        "latitudeE7": 389488537,
+        "longitudeE7": -923751252
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T05:58:46.688Z",
+        "endTimestamp": "2015-12-31T06:14:47.001Z"
+      },
+      "distance": 2127,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389338531,
+          "lngE7": -923881301
+        }, {
+          "latE7": 389490051,
+          "lngE7": -923751220
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2653.5796465838935,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389473160,
+        "longitudeE7": -923734489,
+        "placeId": "ChIJj6TZzw223IcR6mpxIIJxssQ",
+        "address": "2201 W Rollins Rd, Columbia, MO 65203-1433, United States",
+        "name": "Trinity Lutheran Church",
+        "locationConfidence": 39.70964
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T06:14:47.001Z",
+        "endTimestamp": "2015-12-31T06:31:24.999Z"
+      },
+      "centerLatE7": 389488567,
+      "centerLngE7": -923751433,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389473275,
+        "longitudeE7": -923734760,
+        "placeId": "ChIJj6TZzw223IcRIi_Q3FAEc_s",
+        "address": "2201 W Rollins Rd, Columbia, MO 65203, USA",
+        "name": "Good Shepherd Lutheran School",
+        "locationConfidence": 24.954504
+      }, {
+        "latitudeE7": 389502520,
+        "longitudeE7": -923740080,
+        "placeId": "ChIJVfXyefy13IcRcTCzEwYggAY",
+        "address": "3301 W Broadway, Columbia, MO 65203, USA",
+        "name": "Community United Methodist Church",
+        "locationConfidence": 12.039186
+      }, {
+        "latitudeE7": 389473160,
+        "longitudeE7": -923734489,
+        "placeId": "ChIJj6TZzw223IcR9su4P8fM8M4",
+        "address": "2201 W Rollins Rd, Columbia, MO 65203, USA",
+        "name": "Trinity Lutheran Child Learning Center",
+        "locationConfidence": 5.8603797
+      }, {
+        "latitudeE7": 389500670,
+        "longitudeE7": -923779300,
+        "placeId": "ChIJkfVlGQm23IcRQp4HFCBajOw",
+        "name": "Central Missouri Online LLC (CentralMO.com)",
+        "locationConfidence": 4.7889214
+      }, {
+        "latitudeE7": 389504880,
+        "longitudeE7": -923767140,
+        "placeId": "ChIJ5aEEKgm23IcRxt2epiplUuc",
+        "name": "Cover All Handyman Services",
+        "locationConfidence": 4.2778344
+      }, {
+        "latitudeE7": 389492870,
+        "longitudeE7": -923727229,
+        "placeId": "ChIJXzz0lsS33IcR6eC0eh7NqgU",
+        "address": "106 Orr St #203, Columbia, MO 65201, USA",
+        "name": "Rebecca Allen Photography",
+        "locationConfidence": 3.9819846
+      }, {
+        "latitudeE7": 389491960,
+        "longitudeE7": -923757830,
+        "placeId": "ChIJATEbuA623IcRrMQCw4juHMo",
+        "name": "Quality Cut Lawn Care LLC",
+        "locationConfidence": 2.3591785
+      }, {
+        "latitudeE7": 389492870,
+        "longitudeE7": -923727229,
+        "placeId": "ChIJI8xUFQ623IcR2sdFQyW90Lk",
+        "name": "Chameleon Paint Crafters",
+        "locationConfidence": 1.2013588
+      }, {
+        "latitudeE7": 389481380,
+        "longitudeE7": -923778550,
+        "placeId": "ChIJX1c9YQm23IcRDNPzwY97AcY",
+        "name": "Burr Oak Construction",
+        "locationConfidence": 0.8270119
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389488832,
+        "longitudeE7": -923751443
+      },
+      "endLocation": {
+        "latitudeE7": 389505266,
+        "longitudeE7": -923302204
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T06:31:24.999Z",
+        "endTimestamp": "2015-12-31T07:14:38Z"
+      },
+      "distance": 3889,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389490051,
+          "lngE7": -923751449
+        }, {
+          "latE7": 389505310,
+          "lngE7": -923302230
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4597.072449291661,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389505266,
+        "longitudeE7": -923302204
+      },
+      "endLocation": {
+        "latitudeE7": 389508986,
+        "longitudeE7": -923323737
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T07:14:38Z",
+        "endTimestamp": "2015-12-31T07:26:51.999Z"
+      },
+      "distance": 207,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389505310,
+          "lngE7": -923302230
+        }, {
+          "latE7": 389505691,
+          "lngE7": -923323898
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 187.30256017031508,
+        "travelMode": "WALK",
+        "confidence": 0.9999994303773372
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389508986,
+        "longitudeE7": -923323737
+      },
+      "endLocation": {
+        "latitudeE7": 389542359,
+        "longitudeE7": -923840727
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T07:26:51.999Z",
+        "endTimestamp": "2015-12-31T17:34:17.771Z"
+      },
+      "distance": 10886,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389505691,
+          "lngE7": -923323898
+        }, {
+          "latE7": 389490089,
+          "lngE7": -923749313
+        }, {
+          "latE7": 389371261,
+          "lngE7": -923810577
+        }, {
+          "latE7": 389545898,
+          "lngE7": -923842468
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4682.272530955689,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389490700,
+          "lngE7": -923749313,
+          "accuracyMeters": 29,
+          "timestamp": "2015-12-31T08:18:46.687Z"
+        }, {
+          "latE7": 389371262,
+          "lngE7": -923808746,
+          "accuracyMeters": 10,
+          "timestamp": "2015-12-31T09:56:48.001Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389535692,
+        "longitudeE7": -923836050,
+        "placeId": "ChIJXZjDOv213IcRW8yPnenrNus",
+        "address": "3100 West Broadway, Columbia, Missouri 65203, United States",
+        "name": "Hy-Vee",
+        "locationConfidence": 7.5028453
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T17:34:17.771Z",
+        "endTimestamp": "2015-12-31T19:31:35.095Z"
+      },
+      "centerLatE7": 389542233,
+      "centerLngE7": -923840567,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389538077,
+        "longitudeE7": -923852248,
+        "placeId": "ChIJGXQPlPy13IcRd1CVgIhZNPM",
+        "address": "3200 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Arby\u0027s",
+        "locationConfidence": 7.1100597
+      }, {
+        "latitudeE7": 389535191,
+        "longitudeE7": -923864284,
+        "placeId": "ChIJTZkeWPu13IcRNjXTXQ6YirQ",
+        "address": "3304 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Shakespeare\u0027s Pizza",
+        "locationConfidence": 5.4042983
+      }, {
+        "latitudeE7": 389546366,
+        "longitudeE7": -923844273,
+        "placeId": "ChIJUfzTGv213IcRIUzOI1aJcxY",
+        "address": "3100 W Broadway, Columbia, MO 65203, USA",
+        "name": "Hy-Vee Gas",
+        "locationConfidence": 5.2083325
+      }, {
+        "latitudeE7": 389547323,
+        "longitudeE7": -923860174,
+        "placeId": "ChIJQTIcdyC33IcRInaIcxmlKuk",
+        "address": "3220 Vandiver Dr, Columbia, MO 65203, USA",
+        "name": "Smokin\u0027 Chick\u0027s BBQ",
+        "locationConfidence": 5.032419
+      }, {
+        "latitudeE7": 389556882,
+        "longitudeE7": -923838290,
+        "placeId": "ChIJfUg6A_213IcR2ADpwQmtb3c",
+        "address": "W Broadway, Columbia, MO 65203, USA",
+        "name": "Fairview Market Place",
+        "locationConfidence": 4.774699
+      }, {
+        "latitudeE7": 389534437,
+        "longitudeE7": -923865463,
+        "placeId": "ChIJTZkeWPu13IcRgjXlmrtJTL0",
+        "address": "3304 W Broadway Business Park Ct, Columbia, MO 65203, USA",
+        "name": "Truman\u0027s Bar \u0026 Grill",
+        "locationConfidence": 4.5934772
+      }, {
+        "latitudeE7": 389545825,
+        "longitudeE7": -923853309,
+        "placeId": "ChIJGXQPlPy13IcRFusmG6Ljy8o",
+        "address": "3200 W Broadway, Columbia, MO 65203, USA",
+        "name": "The Callaway Bank",
+        "locationConfidence": 4.245045
+      }, {
+        "latitudeE7": 389556929,
+        "longitudeE7": -923838459,
+        "placeId": "ChIJj1CWAv213IcRnuiRsFGFVxE",
+        "address": "3103 W Broadway Business Park Ct #109, Columbia, MO 65203, USA",
+        "name": "The Pasta Factory",
+        "locationConfidence": 3.8393903
+      }, {
+        "latitudeE7": 389532594,
+        "longitudeE7": -923836099,
+        "placeId": "ChIJXZjDOv213IcRizLblcRvpDk",
+        "address": "3100 W Broadway, Columbia, MO 65203, USA",
+        "name": "Commerce Bank",
+        "locationConfidence": 3.4207973
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 13,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389542340,
+        "longitudeE7": -923841300
+      },
+      "endLocation": {
+        "latitudeE7": 389411542,
+        "longitudeE7": -923278764
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T19:31:35.095Z",
+        "endTimestamp": "2015-12-31T20:11:20.191Z"
+      },
+      "distance": 5077,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389545745,
+          "lngE7": -923843002
+        }, {
+          "latE7": 389418258,
+          "lngE7": -923284378
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 6923.531600773411,
+        "travelMode": "DRIVE",
+        "confidence": 0.9826111126193081
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389411542,
+        "longitudeE7": -923278764
+      },
+      "endLocation": {
+        "latitudeE7": 389496293,
+        "longitudeE7": -923278929
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T20:11:20.191Z",
+        "endTimestamp": "2015-12-31T20:40:01.326Z"
+      },
+      "distance": 942,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389411659,
+          "lngE7": -923278579
+        }, {
+          "latE7": 389494895,
+          "lngE7": -923278961
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 994.6007445018463,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 389496293,
+        "longitudeE7": -923278929
+      },
+      "endLocation": {
+        "latitudeE7": 389106773,
+        "longitudeE7": -923327247
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T20:40:01.326Z",
+        "endTimestamp": "2015-12-31T20:58:09.006Z"
+      },
+      "distance": 4407,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 389494895,
+          "lngE7": -923278961
+        }, {
+          "latE7": 389106636,
+          "lngE7": -923327255
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5324.790548026164,
+        "travelMode": "DRIVE",
+        "confidence": 0.3834047300248577
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 389113044,
+        "longitudeE7": -923323317,
+        "placeId": "ChIJnwMNoxq33IcR91aL0SZRVt8",
+        "address": "Columbia, Missouri 65201, United States",
+        "name": "Rock Bridge Shopping Center",
+        "locationConfidence": 14.974078
+      },
+      "duration": {
+        "startTimestamp": "2015-12-31T20:58:09.006Z",
+        "endTimestamp": "2016-01-01T05:06:37.014Z"
+      },
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 389117339,
+          "longitudeE7": -923324897,
+          "placeId": "ChIJEyCg5Rq33IcR3tj4qrAm2KA",
+          "address": "503 East Nifong Boulevard #H, Columbia, MO 65201, United States",
+          "name": "The UPS Store",
+          "locationConfidence": 8.846712
+        },
+        "duration": {
+          "startTimestamp": "2016-01-01T00:00:00Z",
+          "endTimestamp": "2016-01-01T05:06:37.014Z"
+        },
+        "centerLatE7": 389105083,
+        "centerLngE7": -923334950,
+        "visitConfidence": 30,
+        "otherCandidateLocations": [{
+          "latitudeE7": 389105710,
+          "longitudeE7": -923337786,
+          "placeId": "ChIJXXzVqRu33IcRK02rkBoFv5w",
+          "address": "403 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Wendy\u0027s",
+          "locationConfidence": 8.689552
+        }, {
+          "latitudeE7": 389096076,
+          "longitudeE7": -923340690,
+          "placeId": "ChIJebj9Vxq33IcRxtNmkJMFW2M",
+          "locationConfidence": 7.838776
+        }, {
+          "latitudeE7": 389105475,
+          "longitudeE7": -923326294,
+          "placeId": "ChIJ2_h9zxq33IcRS_8P3CymM4g",
+          "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+          "name": "Hy-Vee Gas",
+          "locationConfidence": 6.657038
+        }, {
+          "latitudeE7": 389105442,
+          "longitudeE7": -923339429,
+          "placeId": "ChIJXXzVqRu33IcRK02rkBoFv5w",
+          "address": "403 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Wendy\u0027s",
+          "locationConfidence": 5.444963
+        }, {
+          "latitudeE7": 389103989,
+          "longitudeE7": -923317711,
+          "placeId": "ChIJ_ZJd_Rq33IcRYmnP9Ml_4tA",
+          "address": "505 E Nifong Blvd, Columbia, MO 65203, USA",
+          "name": "Buffalo Wild Wings",
+          "locationConfidence": 4.1788073
+        }, {
+          "latitudeE7": 389113600,
+          "longitudeE7": -923338000,
+          "placeId": "ChIJ2_h9zxq33IcRL0G_gshRnvI",
+          "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+          "name": "Hy-Vee",
+          "locationConfidence": 3.137641
+        }, {
+          "latitudeE7": 389096146,
+          "longitudeE7": -923340761,
+          "placeId": "ChIJebj9Vxq33IcRzgCYx0JVh3w",
+          "address": "3709 Sandman Ln, Columbia, MO 65201, USA",
+          "name": "Commerce Bank",
+          "locationConfidence": 2.806944
+        }, {
+          "latitudeE7": 389111990,
+          "longitudeE7": -923348530,
+          "placeId": "ChIJw5nuIxu33IcRChtzSq0-u-4",
+          "address": "3605 S Providence Rd STE 1, Columbia, MO 65203, USA",
+          "name": "CrossFit COMO",
+          "locationConfidence": 2.6132104
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 14,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 389105083,
+      "centerLngE7": -923334950,
+      "visitConfidence": 30,
+      "otherCandidateLocations": [{
+        "latitudeE7": 389117339,
+        "longitudeE7": -923324897,
+        "placeId": "ChIJEyCg5Rq33IcR3tj4qrAm2KA",
+        "address": "503 E Nifong Blvd Ste H, Columbia, MO 65201, USA",
+        "name": "The UPS Store",
+        "locationConfidence": 7.521999
+      }, {
+        "latitudeE7": 389105710,
+        "longitudeE7": -923337786,
+        "placeId": "ChIJXXzVqRu33IcRK02rkBoFv5w",
+        "address": "403 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Wendy\u0027s",
+        "locationConfidence": 7.388372
+      }, {
+        "latitudeE7": 389096076,
+        "longitudeE7": -923340690,
+        "placeId": "ChIJebj9Vxq33IcRxtNmkJMFW2M",
+        "locationConfidence": 6.6649914
+      }, {
+        "latitudeE7": 389105475,
+        "longitudeE7": -923326294,
+        "placeId": "ChIJ2_h9zxq33IcRS_8P3CymM4g",
+        "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+        "name": "Hy-Vee Gas",
+        "locationConfidence": 5.660208
+      }, {
+        "latitudeE7": 389105442,
+        "longitudeE7": -923339429,
+        "placeId": "ChIJXXzVqRu33IcRK02rkBoFv5w",
+        "address": "403 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Wendy\u0027s",
+        "locationConfidence": 4.62963
+      }, {
+        "latitudeE7": 389103989,
+        "longitudeE7": -923317711,
+        "placeId": "ChIJ_ZJd_Rq33IcRYmnP9Ml_4tA",
+        "address": "505 E Nifong Blvd, Columbia, MO 65203, USA",
+        "name": "Buffalo Wild Wings",
+        "locationConfidence": 3.5530694
+      }, {
+        "latitudeE7": 389113600,
+        "longitudeE7": -923338000,
+        "placeId": "ChIJ2_h9zxq33IcRL0G_gshRnvI",
+        "address": "405 E Nifong Blvd, Columbia, MO 65201, USA",
+        "name": "Hy-Vee",
+        "locationConfidence": 2.667808
+      }, {
+        "latitudeE7": 389096146,
+        "longitudeE7": -923340761,
+        "placeId": "ChIJebj9Vxq33IcRzgCYx0JVh3w",
+        "address": "3709 Sandman Ln, Columbia, MO 65201, USA",
+        "name": "Commerce Bank",
+        "locationConfidence": 2.3866298
+      }, {
+        "latitudeE7": 389111990,
+        "longitudeE7": -923348530,
+        "placeId": "ChIJw5nuIxu33IcRChtzSq0-u-4",
+        "address": "3605 S Providence Rd STE 1, Columbia, MO 65203, USA",
+        "name": "CrossFit COMO",
+        "locationConfidence": 2.2219062
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 389105291,
+          "lngE7": -923327882,
+          "accuracyMeters": 10,
+          "timestamp": "2015-12-31T21:17:33.501Z"
+        }, {
+          "latE7": 389101536,
+          "lngE7": -923354053,
+          "accuracyMeters": 5,
+          "timestamp": "2015-12-31T22:53:53.424Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 460.51970702489865
+      },
+      "locationConfidence": 19,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

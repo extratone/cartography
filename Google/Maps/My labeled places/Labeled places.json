@@ -1,0 +1,103 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3879382,
+          38.9339727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "1714 Oak Cliff Pl, Columbia, MO 65203, USA",
+        "name": "Home"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.330839,
+          38.946494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Extratone",
+        "name": "Work"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.39909949999999,
+          38.9322728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Xpress Liquor & Smokes, 2101 Corona Rd #101, Columbia, MO 65203, United States",
+        "name": "Competence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.2901558,
+          38.9643946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "QuikTrip, 3211 Clark Ln, Columbia, MO 65202, United States",
+        "name": "Competence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3762598,
+          38.966403799999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "We B Smokin, 2507 Bernadette Dr, Columbia, MO 65203, United States",
+        "name": "Competence'"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.1684054,
+          38.573882499999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Missouri Baptist Credit Union, 400 E High St, Jefferson City, MO 65101, United States",
+        "name": "Spectacle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3979346,
+          38.9324041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "The Magic Tree, 2100 Cherry Hill Dr, Columbia, MO 65203, United States",
+        "name": "Foul"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document id="1Gylo90WY0HJGxzpMZnSxRBdnGliC4y2S">
+    <name>History of David Blue</name>
+    <description/>
+    <Schema id="schema" name="__schema"/>
+    <Placemark id="011A6A1D3216DA184E4A">
+      <name>Home Sweat Hime</name>
+      <LookAt>
+        <longitude>-92.3879382</longitude>
+        <latitude>38.9339727</latitude>
+        <altitude>55</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>799.967667041968</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          -92.2355381084578,39.1025188320376,75
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

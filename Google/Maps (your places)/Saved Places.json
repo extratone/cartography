@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -93.1389770,
+          37.3815574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9607495985738518",
+        "Location": {
+          "Address": "392 E Old Mill Rd, Fair Grove, MO 65648, United States",
+          "Business Name": "Hillbilly Speedway",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.3815574",
+            "Longitude": "-93.1389770"
+          }
+        },
+        "Published": "2019-05-10T05:00:55Z",
+        "Title": "Hillbilly Speedway",
+        "Updated": "2019-05-10T05:00:55Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,1260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -92.1993628,
+          38.5733017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb63d57e5eb41a53c",
+        "Location": {
+          "Address": "1001 Southwest Blvd ste f, Jefferson City, MO 65109, United States",
+          "Business Name": "Eileen Long, MSW LCSW",
+          "Geo Coordinates": {
+            "Latitude": "38.5733017",
+            "Longitude": "-92.1993628"
+          }
+        },
+        "Published": "2020-11-17T19:44:57.895069Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3314130,
+          38.9636652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x23fc6fd8535f4f66",
+        "Location": {
+          "Address": "1104 N Providence Rd, Columbia, MO 65203, United States",
+          "Business Name": "David H. Hickman High School",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9636652",
+            "Longitude": "-92.3314130"
+          }
+        },
+        "Published": "2020-11-07T22:21:49.040200Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3990995,
+          38.9322728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7f2b4dccdbef267d",
+        "Location": {
+          "Address": "2101 Corona Rd #101, Columbia, MO 65203, United States",
+          "Business Name": "Xpress Liquor & Smokes",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9322728",
+            "Longitude": "-92.3990995"
+          }
+        },
+        "Published": "2020-11-07T22:19:30.431867Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3216819,
+          38.9703377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc2d49faae72515ae",
+        "Location": {
+          "Address": "1200 Vandiver Dr, Columbia, MO 65202, United States",
+          "Business Name": "Joe Machens Volkswagen",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9703377",
+            "Longitude": "-92.3216819"
+          }
+        },
+        "Published": "2019-07-19T22:38:53.608202Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3105125,
+          38.9490161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x179234db787b2f4b",
+        "Location": {
+          "Address": "5 Old 63 S, Columbia, MO 65201, United States",
+          "Business Name": "Scooter's Coffee",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9490161",
+            "Longitude": "-92.3105125"
+          }
+        },
+        "Published": "2019-06-13T23:10:47.083860Z",
+        "Review Comment": "Eeeech. Bleehhhhhhh.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3961816,
+          38.9118131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x43b895a9084eb810",
+        "Location": {
+          "Address": "4005 Frontgate Dr, Columbia, MO 65203, United States",
+          "Business Name": "Addison's - South",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9118131",
+            "Longitude": "-92.3961816"
+          }
+        },
+        "Published": "2019-06-13T23:09:55.244032Z",
+        "Review Comment": "I want to die.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3221421,
+          38.9643244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5fdd15b68943abb1",
+        "Location": {
+          "Address": "1201 Business Loop 70 E, Columbia, MO 65201, United States",
+          "Business Name": "Midas",
+          "Geo Coordinates": {
+            "Latitude": "38.9643244",
+            "Longitude": "-92.3221421"
+          }
+        },
+        "Published": "2019-06-04T10:27:56.749957Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.2215499,
+          38.8173141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe6596404a308f892",
+        "Location": {
+          "Address": "11300 S Airport Dr, Columbia, MO 65201, United States",
+          "Business Name": "Columbia Regional Airport",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.8173141",
+            "Longitude": "-92.2215499"
+          }
+        },
+        "Published": "2019-06-03T02:58:55.251717Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3978223,
+          38.9330185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4a2dc485e4646340",
+        "Location": {
+          "Address": "2012 Cherry Hill Dr #201, Columbia, MO 65203, United States",
+          "Business Name": "Andrew Stone Optometry",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9330185",
+            "Longitude": "-92.3978223"
+          }
+        },
+        "Published": "2019-06-03T02:58:07.393683Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.2901558,
+          38.9643946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7eaadaad93477edd",
+        "Location": {
+          "Address": "3211 Clark Ln, Columbia, MO 65202, United States",
+          "Business Name": "QuikTrip",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9643946",
+            "Longitude": "-92.2901558"
+          }
+        },
+        "Published": "2019-06-03T02:57:34.154878Z",
+        "Review Comment": "As you already know... the best of the best. Those of us in the convenience industry should aspire to operate as they do.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.2488126,
+          38.9608094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf9cab599de31ad1",
+        "Location": {
+          "Address": "5708 Freedom Dr, Columbia, MO 65202, United States",
+          "Business Name": "Head Motor Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9608094",
+            "Longitude": "-92.2488126"
+          }
+        },
+        "Published": "2019-06-03T02:55:18.347692Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.7445152,
+          38.9774171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5adae7f700508f8c",
+        "Location": {
+          "Address": "201 Main St, Boonville, MO 65233, United States",
+          "Business Name": "Main Street Diner",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9774171",
+            "Longitude": "-92.7445152"
+          }
+        },
+        "Published": "2019-06-03T01:44:07.705456Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3748088,
+          38.9600327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd770feecddbc3836",
+        "Location": {
+          "Address": "217 N Stadium Blvd, Columbia, MO 65203, United States",
+          "Business Name": "Jazz A Louisiana Kitchen",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9600327",
+            "Longitude": "-92.3748088"
+          }
+        },
+        "Published": "2019-06-02T22:17:26.187140Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3867008,
+          38.9465117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9dd2e42d1fd3350",
+        "Location": {
+          "Address": "3300 W Rollins Rd, Columbia, MO 65203, United States",
+          "Business Name": "Bonnie View Nature Sanctuary",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9465117",
+            "Longitude": "-92.3867008"
+          }
+        },
+        "Published": "2019-06-02T22:16:42.698402Z",
+        "Review Comment": "It’s not that recreational foot/bike traffic has become *unreasonable* just yet, but this is one of those out-of-the-way-enough finds you should experience while you can.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.6106420,
+          45.5051630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf278da86d9868b94",
+        "Location": {
+          "Address": "5020 SE Division St, Portland, OR 97206, United States",
+          "Business Name": "Bridgetown Electronics Repair",
+          "Geo Coordinates": {
+            "Latitude": "45.5051630",
+            "Longitude": "-122.6106420"
+          }
+        },
+        "Published": "2019-05-29T00:14:58.316250Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.1066750,
+          38.6550740
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9c724ed54df3878d",
+        "Location": {
+          "Address": "160 E Simon Blvd, Holts Summit, MO 65043, United States",
+          "Business Name": "Capital Diesel LLC",
+          "Geo Coordinates": {
+            "Latitude": "38.6550740",
+            "Longitude": "-92.1066750"
+          }
+        },
+        "Published": "2019-05-29T00:14:48.256892Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3276615,
+          38.9513208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc11e76f3a0a174fc",
+        "Location": {
+          "Address": "5 S 9th St, Columbia, MO 65201, United States",
+          "Business Name": "True/False",
+          "Geo Coordinates": {
+            "Latitude": "38.9513208",
+            "Longitude": "-92.3276615"
+          }
+        },
+        "Published": "2019-05-29T00:14:22.345788Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3996723,
+          38.9159742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x272322e34c10faa7",
+        "Location": {
+          "Address": "3800 Scott Blvd, Columbia, MO 65203, United States",
+          "Business Name": "MKT Trail - Scott Boulevard Access",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9159742",
+            "Longitude": "-92.3996723"
+          }
+        },
+        "Published": "2019-05-29T00:14:02.973865Z",
+        "Review Comment": "Top 5 entrances to the trail AT LEAST.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.3578526,
+          39.7104348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfb8fb57798a6f57e",
+        "Location": {
+          "Address": "213 N 3rd St, Hannibal, MO 63401, United States",
+          "Business Name": "Becky Thatcher's Diner",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7104348",
+            "Longitude": "-91.3578526"
+          }
+        },
+        "Published": "2019-05-29T00:13:35.939618Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3268199,
+          38.9506396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x73db91b76ee98bfe",
+        "Location": {
+          "Address": "29 S 10th St, Columbia, MO 65201, United States",
+          "Business Name": "Harpo's Bar & Grill",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9506396",
+            "Longitude": "-92.3268199"
+          }
+        },
+        "Published": "2019-05-29T00:13:19.243736Z",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.8499278,
+          39.7674982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb2abd6448bd196cd",
+        "Location": {
+          "Address": "815 Francis St, St Joseph, MO 64501, United States",
+          "Business Name": "Club Geek",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7674982",
+            "Longitude": "-94.8499278"
+          }
+        },
+        "Published": "2019-05-29T00:12:55.509944Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3012525,
+          38.9139169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc7577fa7ce95f5f8",
+        "Location": {
+          "Address": "2601 Grindstone Pkwy, Columbia, MO 65201, United States",
+          "Business Name": "Club Car Wash",
+          "Geo Coordinates": {
+            "Latitude": "38.9139169",
+            "Longitude": "-92.3012525"
+          }
+        },
+        "Published": "2019-05-29T00:12:36.960955Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3815468,
+          38.9432243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5fe4cedf8ffb5584",
+        "Location": {
+          "Address": "909 S Fairview Rd, Columbia, MO 65203, United States",
+          "Business Name": "Fairview Shelter",
+          "Geo Coordinates": {
+            "Latitude": "38.9432243",
+            "Longitude": "-92.3815468"
+          }
+        },
+        "Published": "2019-05-29T00:12:28.198734Z",
+        "Review Comment": "Wow I wish I could give this structure the 3000-word review it deserves. I could reckon he only possible reason you’re reading this is that you’ve found yourself there at night and can’t turn on the lights.\n\nThey’re controlled by a rotary timer switch within a steel box on one of the school-facing supports. Ya just have to twist it until it starts ticking.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3309590,
+          38.9511405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa80572bfb51b11f5",
+        "Location": {
+          "Address": "15 S 6th St, Columbia, MO 65201, United States",
+          "Business Name": "Coley's American Bistro",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9511405",
+            "Longitude": "-92.3309590"
+          }
+        },
+        "Published": "2019-05-29T00:09:34.113472Z",
+        "Review Comment": "Real cocktails, real burgers, no cargo shorts.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3256480,
+          38.9547090
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc43f5ad079ea6907",
+        "Location": {
+          "Address": "1013 Park Ave, Columbia, MO 65201, United States",
+          "Business Name": "Rose Music Hall",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9547090",
+            "Longitude": "-92.3256480"
+          }
+        },
+        "Published": "2019-05-29T00:08:48.362560Z",
+        "Review Comment": "I don’t remember what it was called then, but I saw the best show of my lifetime here, summer of Junior year. Guitar Wolf came and gave ~30 of us like 6 hours of preposterous energy - perhaps even more than they give whole stadiums in Japan. God bless.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3151548,
+          38.8710185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1abbf27a1d9f3e8e",
+        "Location": {
+          "Address": "5901 South Highway 163, Columbia, MO 65203, United States",
+          "Business Name": "Rock Bridge Memorial State Park",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.8710185",
+            "Longitude": "-92.3151548"
+          }
+        },
+        "Published": "2019-05-29T00:06:40.153753Z",
+        "Review Comment": "Watch out for that big hole.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3762598,
+          38.9664038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd8f966f5e9bea780",
+        "Location": {
+          "Address": "2507 Bernadette Dr, Columbia, MO 65203, United States",
+          "Business Name": "We B Smokin",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9664038",
+            "Longitude": "-92.3762598"
+          }
+        },
+        "Published": "2019-05-29T00:05:18.427306Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.1782226,
+          38.5789070
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3831b9f0db492c98",
+        "Location": {
+          "Address": "415 W McCarty St, Jefferson City, MO 65101, United States",
+          "Business Name": "Capitol Plaza Hotel and Convention Center",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.5789070",
+            "Longitude": "-92.1782226"
+          }
+        },
+        "Published": "2019-05-29T00:04:31.119379Z",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3662933,
+          38.9583608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x36517d6f6897a892",
+        "Location": {
+          "Address": "1769 W Ash St, Columbia, MO 65203, United States",
+          "Business Name": "Columbia Center for Urban Agriculture",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9583608",
+            "Longitude": "-92.3662933"
+          }
+        },
+        "Published": "2019-05-28T23:18:13.383831Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3240694,
+          38.9517337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2ff845d1eabce849",
+        "Location": {
+          "Address": "1201 E Broadway, Columbia, MO 65201, United States",
+          "Business Name": "Gumby's Pizza",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9517337",
+            "Longitude": "-92.3240694"
+          }
+        },
+        "Published": "2019-05-28T23:18:00.885453Z",
+        "Review Comment": "Quite possibly the most redeemable business Columbia has ever had to offer.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3699820,
+          38.9628580
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x76f8682d40099136",
+        "Location": {
+          "Address": "2001 W Worley St Ste 140, Columbia, MO 65203, United States",
+          "Business Name": "Best Buy",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9628580",
+            "Longitude": "-92.3699820"
+          }
+        },
+        "Published": "2019-05-28T23:17:24.837090Z",
+        "Review Comment": "Best Buy is the best place to lose your mind in America.",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.2925203,
+          38.9118582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd62440f638e3d3c7",
+        "Location": {
+          "Address": "3401-3733 Lenoir St, Columbia, MO 65201, United States",
+          "Business Name": "Commuter Parking",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9118582",
+            "Longitude": "-92.2925203"
+          }
+        },
+        "Published": "2019-05-28T23:16:29.533304Z",
+        "Review Comment": "Parking doesn't come any better.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3344553,
+          38.9606814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4ca9febb7df05173",
+        "Location": {
+          "Address": "807 N Providence Rd, Columbia, MO 65203, United States",
+          "Business Name": "CMCA Administrative Offices",
+          "Geo Coordinates": {
+            "Latitude": "38.9606814",
+            "Longitude": "-92.3344553"
+          }
+        },
+        "Published": "2019-05-28T23:16:11.834146Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3281020,
+          38.9543300
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x59aa62f8ecacc688",
+        "Location": {
+          "Address": "220 N 8th St, Columbia, MO 65201, United States",
+          "Business Name": "The Social Room",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9543300",
+            "Longitude": "-92.3281020"
+          }
+        },
+        "Published": "2019-05-28T23:15:41.742886Z",
+        "Review Comment": "The Social Room was originally intended to be its owner's nostalgic counterweight to his own successful business – a place “where his original, more edgy clients can go to listen to local bands,” (https://www.voxmagazine.com/news/people/roxy-s-owner-jesse-garcia-is-at-it-again/article_fc3b0b0e-5cec-5902-9c20-f7e440d6913b.html) which now fills most of its week with in-house DJ slots who’ve somehow arrived at a place of contentment describing their sphere as “EDM.” It’s hard to forget, too, that the owner is the same man who’s first business – the nearest Columbian equivalent to a dance club since the early 2000s, called Roxy’s – was distributing wristbands declaring “Hands Up, Pants Up” after more than four months had passed since Michael Brown’s murder by Ferguson police officers just 116 miles east.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.4149405,
+          39.0426247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x321e94696fdeeb76",
+        "Location": {
+          "Address": "4301 S Noland Rd, Independence, MO 64055, United States",
+          "Business Name": "Wendy's",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.0426247",
+            "Longitude": "-94.4149405"
+          }
+        },
+        "Published": "2019-05-28T22:39:30.494197Z",
+        "Review Comment": "Always genuinely pleasant service and hot food.",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3282668,
+          38.9524736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x26691c9363f52fab",
+        "Location": {
+          "Address": "38 N 8th St, Columbia, MO 65201, United States",
+          "Business Name": "Room 38 Restaurant & Lounge",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9524736",
+            "Longitude": "-92.3282668"
+          }
+        },
+        "Published": "2019-05-28T22:38:54.463209Z",
+        "Review Comment": "For the fourth time then:\nA *Martini* is made with gin.\nA *Vodka Martini* is made with vodka.\n\nThank you.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.4569778,
+          39.1027333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb0143b7d2ee54322",
+        "Location": {
+          "Address": "10219 US-24, Independence, MO 64053, United States",
+          "Business Name": "Palomino's Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.1027333",
+            "Longitude": "-94.4569778"
+          }
+        },
+        "Published": "2019-05-11T01:14:08.416924Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3279786,
+          38.9512173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xea3b57806df665e0",
+        "Location": {
+          "Address": "816 E Broadway, Columbia, MO 65201, United States",
+          "Business Name": "Broadway Brewery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9512173",
+            "Longitude": "-92.3279786"
+          }
+        },
+        "Published": "2019-05-10T18:14:12.128219Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3276743,
+          38.9513513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd6c70fae24b42696",
+        "Location": {
+          "Address": "820 E Broadway, Columbia, MO 65201, United States",
+          "Business Name": "Tellers Gallery & Bar",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9513513",
+            "Longitude": "-92.3276743"
+          }
+        },
+        "Published": "2019-05-10T18:13:35.763152Z",
+        "Star Rating": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3290277,
+          38.9775263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe3616e75d8060971",
+        "Location": {
+          "Address": "701 Big Bear Blvd, Columbia, MO 65202, United States",
+          "Business Name": "Sidelines Sports Bar-Columbia",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9775263",
+            "Longitude": "-92.3290277"
+          }
+        },
+        "Published": "2019-05-10T18:13:16.590990Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3327306,
+          38.9507972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x19f42e25c5748a60",
+        "Location": {
+          "Address": "22 S 4th St, Columbia, MO 65201, United States",
+          "Business Name": "Broadway Diner",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9507972",
+            "Longitude": "-92.3327306"
+          }
+        },
+        "Published": "2019-05-10T18:13:02.455671Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.1262434,
+          38.9527977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x43097c2696c080e8",
+        "Location": {
+          "Address": "1781 Lindbergh Dr, Columbia, MO 65201, United States",
+          "Business Name": "Artichoke Annie's Antique Mall",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9527977",
+            "Longitude": "-92.1262434"
+          }
+        },
+        "Published": "2019-05-10T18:12:53.861420Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.1389770,
+          37.3815574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2221f779693316",
+        "Location": {
+          "Address": "392 E Old Mill Rd, Fair Grove, MO 65648, United States",
+          "Business Name": "Hillbilly Speedway",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.3815574",
+            "Longitude": "-93.1389770"
+          }
+        },
+        "Published": "2019-05-10T18:12:41.138696Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3832010,
+          38.8161657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb88e7256cdc0675a",
+        "Location": {
+          "Address": "11505 Smith Hatchery Rd, Columbia, MO 65203, United States",
+          "Business Name": "Cooper's Landing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.8161657",
+            "Longitude": "-92.3832010"
+          }
+        },
+        "Published": "2019-05-10T05:14:58.278750Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3309905,
+          38.9513397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3d22b523a46e2c1a",
+        "Location": {
+          "Address": "522 E Broadway, Columbia, MO 65202, United States",
+          "Business Name": "Lil Bit Cafe",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9513397",
+            "Longitude": "-92.3309905"
+          }
+        },
+        "Published": "2019-05-10T05:10:59.065403Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3753518,
+          38.9640831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x39aa30e56f3af1fc",
+        "Location": {
+          "Address": "2300 Bernadette Dr, Columbia, MO 65203, United States",
+          "Business Name": "Falafel Cafe",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9640831",
+            "Longitude": "-92.3753518"
+          }
+        },
+        "Published": "2019-05-10T05:10:42.756608Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0158602,
+          38.7807742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa0869d3ec47e8d52",
+        "Location": {
+          "Address": "201 Waterfront St, National Harbor, MD 20745, United States",
+          "Business Name": "Gaylord National Resort & Convention Center",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.7807742",
+            "Longitude": "-77.0158602"
+          }
+        },
+        "Published": "2019-05-10T05:10:28.896173Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3253592,
+          38.9507803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcea77f6ba7ba487d",
+        "Location": {
+          "Address": "10 Hitt St, Columbia, MO 65201, United States",
+          "Business Name": "Ragtag Cinema",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9507803",
+            "Longitude": "-92.3253592"
+          }
+        },
+        "Published": "2019-05-10T05:10:18.591762Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3287980,
+          38.9508660
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7ec0cc5b83b4efcb",
+        "Location": {
+          "Address": "23 S 8th St, Columbia, MO 65201, United States",
+          "Business Name": "voco The Tiger Hotel",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9508660",
+            "Longitude": "-92.3287980"
+          }
+        },
+        "Published": "2019-05-10T05:10:06.556498Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3279064,
+          38.9486695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x887be57d0ee9a26c",
+        "Location": {
+          "Address": "225 S 9th St, Columbia, MO 65201, United States",
+          "Business Name": "Shakespeare's Pizza - Downtown",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9486695",
+            "Longitude": "-92.3279064"
+          }
+        },
+        "Published": "2019-05-10T05:08:39.977086Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3983182,
+          38.9327452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1f536514494295d4",
+        "Location": {
+          "Address": "2100 Cherry Hill Dr, Columbia, MO 65203, United States",
+          "Business Name": "The Magic Tree",
+          "Geo Coordinates": {
+            "Latitude": "38.9327452",
+            "Longitude": "-92.3983182"
+          }
+        },
+        "Published": "2019-05-10T05:08:22.112093Z",
+        "Review Comment": "Sorry to be a party pooper folks, but this is just a tree with some lights on it. There are more spectacular things to see in Columbia during the season.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.3246131,
+          38.9518152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdb4019d3d62fcf19",
+        "Location": {
+          "Address": "1111 E Broadway, Columbia, MO 65201, United States",
+          "Business Name": "The Roof",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9518152",
+            "Longitude": "-92.3246131"
+          }
+        },
+        "Published": "2019-05-10T05:03:28.323504Z",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    }
+  ]
+}
