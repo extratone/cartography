@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="inRoute-v7.9">
+	<wpt lat="38.954971" lon="-92.373047">
+		<name>Jefferson City MO
+United States</name>
+		<src>2211 W Broadway, Columbia MO 65203, United States</src>
+		<sat>1</sat>
+	</wpt>
+	<wpt lat="38.931786" lon="-92.589752">
+		<name>RT-179</name>
+		<src>Boonville MO 65233, United States</src>
+	</wpt>
+	<wpt lat="38.644787" lon="-92.295219">
+		<name><![CDATA[3052–3080 RT-179
+Jefferson City MO 65109
+United States]]></name>
+		<src>Jefferson City MO 65109, United States</src>
+		<sat>1</sat>
+	</wpt>
+	<wpt lat="38.963776" lon="-92.257057">
+		<name>1305 Valley Creek Ln</name>
+		<src>1305 Valley Creek Ln, Columbia MO 65202, United States</src>
+	</wpt>
+	<wpt lat="38.963776" lon="-92.257057">
+		<name>1305 Valley Creek Ln</name>
+		<src>1305 Valley Creek Ln, Columbia MO 65202, United States</src>
+	</wpt>
+	<wpt lat="30.210556" lon="-92.665278">
+		<name>KJEF</name>
+		<src>Jennings LA 70546, United States</src>
+	</wpt>
+	<wpt lat="38.591450" lon="-92.155167">
+		<name>Jefferson City Memorial Airport</name>
+		<cmt>+1 (573) 636-5118</cmt>
+		<src>320 E McCarty St, Jefferson City MO 65101, United States</src>
+		<link href="https://www.jeffersoncitymo.gov/government/airport.php">
+		</link>
+	</wpt>
+	<rte>
+		<name>Rte-Rte-OneEbentyNine</name>
+		<desc>Now</desc>
+		<link href="">
+			<text>America/Chicago</text>
+		</link>
+		<number>0</number>
+		<type>1</type>
+		<rtept lat="38.954971" lon="-92.373047">
+			<name>Jefferson City MO
+United States</name>
+			<src>2211 W Broadway, Columbia MO 65203, United States</src>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RA0wKyQYIi4TO+K6018ryARAAItYBCAEQACDA0QIwAUIgCh4IEFIXCgVlbi1VUxoOSmVmZmVyc29uIENpdHmYAQJKBWFwcGxlSgZyZXZnZW9KAlVTUApakAESjQFwbGFjZVJlcXVlc3Q9Q2hjS0ZXTnZiUzVEWVhKdllrRndjSE11YVc1U2IzVjBaVGdFUWtNaVFSQVFHQUVpT3dvU0NUTDRhVjZzVFVOQUViQ1Jaanc5RFZmQUdmSmd5eWVkWnNSQklNMEJLZTIyaUtrZXVmUkFNUUFBQUFBQUFDQkFRUUFBQUFBQUFQQy9gAiJ1CAQQACDA0QIwAUJSIlAKJimBs5QsJy5DQDGsvC4NDRhXwDlTA3IualZDQEGZJaawd/xWwFAMEiYpgbOULCcuQ0AxrLwuDQ0YV8A5UwNyLmpWQ0BBmSWmsHf8VsBQDEoFYXBwbGVKBnJldmdlb0oCVVNQCmACIuMCCB8QACDA0QIwAUK/AvoBuwIKuAIIAhIKMTEuMC40LWRldhoNCgVlbi1VUxICVVMaACIqCg5yZXZnZW8tMjIuMzYuMxCci+ixDBoGY3JlYXRlIgoxMS4wLjQtZGV2qgbrAQoOSmVmZmVyc29uIENpdHkSY1oSSmVmZmVyc29uIENpdHksIE1PWg1Vbml0ZWQgU3RhdGVzej4KDVVuaXRlZCBTdGF0ZXMSAlVTGghNaXNzb3VyaSICTU8qC0NvbGUgQ291bnR5Mg5KZWZmZXJzb24gQ2l0eRoOSmVmZmVyc29uIENpdHkqTwoNVW5pdGVkIFN0YXRlcxINVW5pdGVkIFN0YXRlcxoITWlzc291cmkiCE1pc3NvdXJpKgtDb2xlIENvdW50eTIOSmVmZmVyc29uIENpdHk6AKIGECoOSmVmZmVyc29uIENpdHlKBWFwcGxlSgZyZXZnZW9KAlVTUApgAiJVCAIQACDA0QIwAUIyEjAKEgky+GlerE1DQBGwkWY8PQ1XwCIRCg9BbWVyaWNhL0NoaWNhZ286BwoFMjkwNTFKBWFwcGxlSgZyZXZnZW9KAlVTUApgAijCOzonCiUIi4TO+K6018ryARISCTS77q1IQkNAET3BtF5CClfAGMI7kAMBwAwB0hMUFRZaJGNsYXNzbmFtZVgkY2xhc3Nlc1lNS01hcEl0ZW2iFRdYTlNPYmplY3QACAARABoAJAApADIANwBJAEwAUQBTAFgAXgBjAGgAbwBxAHMDwwPIA9MD3APmA+kAAAAAAAACAQAAAAAAAAAYAAAAAAAAAAAAAAAAAAAD8g==</type>
+			<fix>none</fix>
+			<sat>1</sat>
+		</rtept>
+		<rtept lat="38.931786" lon="-92.589752">
+			<name>RT-179</name>
+			<src>Boonville MO 65233, United States</src>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RA7YKswcQACLkBAgfEAAwAULZBPoB1QQK0gQIAhIKMTEuMC40LWRldhoNCgVlbi1VUxICVVMaACIqCg5yZXZnZW8tMjIuMzYuMxD6rOexDBoGY3JlYXRlIgoxMS4wLjQtZGV2qgaFBAoGUlQtMTc5EoEBWgZSVC0xNzlaFEJvb252aWxsZSwgTU8gIDY1MjMzWg1Vbml0ZWQgU3RhdGVzelIKDVVuaXRlZCBTdGF0ZXMSAlVTGghNaXNzb3VyaSICTU8qDUNvb3BlciBDb3VudHkyCUJvb252aWxsZToFNjUyMzNSBlJULTE3OWIGUlQtMTc5IjwbXHRvaT1saHBcICdzdGUmSXRfJ1IrdXRfJ3debl8nc0UudiRuLnI2aV8nbmEmSW4gG1x0b2k9b3J0aFwqyAEKDVVuaXRlZCBTdGF0ZXMSDVVuaXRlZCBTdGF0ZXMaCE1pc3NvdXJpIghNaXNzb3VyaSoNQ29vcGVyIENvdW50eTIJQm9vbnZpbGxlUjwbXHRvaT1saHBcICdzdGUmSXRfJ1IrdXRfJ3debl8nc0UudiRuLnI2aV8nbmEmSW4gG1x0b2k9b3J0aFxiPBtcdG9pPWxocFwgJ3N0ZSZJdF8nUit1dF8nd15uXydzRS52JG4ucjZpXyduYSZJbiAbXHRvaT1vcnRoXDIlJ3N0ZSZJdF8nUit1dF8nd15uXydzRS52JG4ucjZpXyduYSZJbjopeidSJSdzdGUmSXRfJ1IrdXRfJ3debl8nc0UudiRuLnI2aV8nbmEmSW6iBhsSBlJULTE3OSoRUlQtMTc5LCBCb29udmlsbGVgASKlAQgBEAAwAUIaChgIMUgAUg8KBWVuLVVTGgZSVC0xNzmYAQNafxJ9cGxhY2VSZXF1ZXN0PUNoY0tGV052YlM1RFlYSnZZa0Z3Y0hNdWFXNVNiM1YwWlRnQlFqVUtNeG9KY205MWRHVWdNVGM1SWlZS0pDblpYdnliSTJWRFFESGNFQWJtVEM5WHdEbmVjVEFHdTV4RFFFRzYzR2tXOFJwWHdBPT1gASI8CAIQADABQjISMAoSCdvu/MJEd0NAEdjw3Hq+JVfAIhEKD0FtZXJpY2EvQ2hpY2FnbzoHCgUyOTA1M2ABIlwIBBAAMAFCUiJQCiYpouLlEjZ3Q0Ax2Xmo7sclV8A5yESDglN3Q0BBI+YPA7UlV8BQBBImKfaooZyxdkNAMYwS1xIdJlfAOXR+x/jXd0NAQXBN4d5fJVfAUARgASjZMsAMAdITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNZTUtNYXBJdGVtohUXWE5TT2JqZWN0AAgAEQAaACQAKQAyADcASQBMAFEAUwBYAF4AYwBoAG8AcQBzBC0EMgQ9BEYEUARTAAAAAAAAAgEAAAAAAAAAGAAAAAAAAAAAAAAAAAAABFw=</type>
+			<fix>none</fix>
+		</rtept>
+		<rtept lat="38.644787" lon="-92.295219">
+			<name><![CDATA[3052–3080 RT-179
+Jefferson City MO 65109
+United States]]></name>
+			<src>Jefferson City MO 65109, United States</src>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RBNAKzQkQACLWAQgBEAAgwNECMAFCJAoiCDlSGwoFZW4tVVMaEjMwNTLigJMzMDgwIFJULTE3OZgBA0oFYXBwbGVKBnJldmdlb0oCVVNQClqMARKJAXBsYWNlUmVxdWVzdD1DaGNLRldOdmJTNURZWEp2WWtGd2NITXVhVzVTYjNWMFpUZ0VRa0FpUGhnQklqb0tFZ2xTSTBWYmlGSkRRQkd4SVRIWjVCSlh3QmxQemFPUWtXYkVRU0FBS1FBQUFBQUFBQUFBTVFBQUFBQUFBUEMvUVFBQUFBQUFBUEMvYAIidQgEEAAgwNECMAFCUiJQCiYpqmkp93hSQ0AxE6Vmde4SV8A50MvGZpZSQ0BBTylEndsSV8BQBBImKf4v5YD0UUNAMQrSAUJDE1fAOXwFC90aU0NAQVj8qNCGElfAUARKBWFwcGxlSgZyZXZnZW9KAlVTUApgAiKZBggfEAAgwNECMAFC9QX6AfEFCu4FCAISCjExLjAuNC1kZXYaDQoFZW4tVVMSAlVTGgAiKgoOcmV2Z2VvLTIyLjM2LjMQwq7nsQwaBmNyZWF0ZSIKMTEuMC40LWRldqoGoQUKEjMwNTLigJMzMDgwIFJULTE3ORKuAVoSMzA1MuKAkzMwODAgUlQtMTc5WhlKZWZmZXJzb24gQ2l0eSwgTU8gIDY1MTA5Wg1Vbml0ZWQgU3RhdGVzem4KDVVuaXRlZCBTdGF0ZXMSAlVTGghNaXNzb3VyaSICTU8qC0NvbGUgQ291bnR5Mg5KZWZmZXJzb24gQ2l0eToFNjUxMDlSBlJULTE3OVoLMzA1MuKAkzMwODBiEjMwNTLigJMzMDgwIFJULTE3OSJjG1x0bj1hZGRyZXNzXCAzMDUy4oCTMzA4MCAbXHRuPW5vcm1hbFwgG1x0b2k9bGhwXCAnc3RlJkl0XydSK3V0Xyd3Xm5fJ3NFLnYkbi5yNmlfJ25hJkluIBtcdG9pPW9ydGhcKpoCCg1Vbml0ZWQgU3RhdGVzEg1Vbml0ZWQgU3RhdGVzGghNaXNzb3VyaSIITWlzc291cmkqC0NvbGUgQ291bnR5Mg5KZWZmZXJzb24gQ2l0eVI8G1x0b2k9bGhwXCAnc3RlJkl0XydSK3V0Xyd3Xm5fJ3NFLnYkbi5yNmlfJ25hJkluIBtcdG9pPW9ydGhcWiYbXHRuPWFkZHJlc3NcIDMwNTLigJMzMDgwIBtcdG49bm9ybWFsXGJjG1x0bj1hZGRyZXNzXCAzMDUy4oCTMzA4MCAbXHRuPW5vcm1hbFwgG1x0b2k9bGhwXCAnc3RlJkl0XydSK3V0Xyd3Xm5fJ3NFLnYkbi5yNmlfJ25hJkluIBtcdG9pPW9ydGhcOil6J1IlJ3N0ZSZJdF8nUit1dF8nd15uXydzRS52JG4ucjZpXyduYSZJbqIGLBIGUlQtMTc5KiIzMDUy4oCTMzA4MCBSVC0xNzksIEplZmZlcnNvbiBDaXR5SgVhcHBsZUoGcmV2Z2VvSgJVU1AKYAIiVwgCEAAgwNECMAFCNBIyChIJUiNFW4hSQ0ARsSEx2eQSV8AiEQoPQW1lcmljYS9DaGljYWdvMAI6BwoFMjkwNTFKBWFwcGxlSgZyZXZnZW9KAlVTUApgAijCO8AMAdITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNZTUtNYXBJdGVtohUXWE5TT2JqZWN0AAgAEQAaACQAKQAyADcASQBMAFEAUwBYAF4AYwBoAG8AcQBzBUcFTAVXBWAFagVtAAAAAAAAAgEAAAAAAAAAGAAAAAAAAAAAAAAAAAAABXY=</type>
+			<fix>none</fix>
+			<sat>1</sat>
+		</rtept>
+		<rtept lat="38.963776" lon="-92.257057">
+			<name>1305 Valley Creek Ln</name>
+			<src>1305 Valley Creek Ln, Columbia MO 65202, United States</src>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RBk0KygwQACKIBggfEAAwAUL9BfoB+QUK9gUIAhIKMTEuMC40LWRldhoNCgVlbi1VUxICVVMaACIqCg5yZXZnZW8tMjIuMzYuMxDisOexDBoGY3JlYXRlIgoxMS4wLjQtZGV2qgapBQoUMTMwNSBWYWxsZXkgQ3JlZWsgTG4SxwFaFDEzMDUgVmFsbGV5IENyZWVrIExuWhNDb2x1bWJpYSwgTU8gIDY1MjAyWg1Vbml0ZWQgU3RhdGVzeooBCg1Vbml0ZWQgU3RhdGVzEgJVUxoITWlzc291cmkiAk1PKgxCb29uZSBDb3VudHkyCENvbHVtYmlhOgU2NTIwMkIMVmFsbGV5IENyZWVrUg9WYWxsZXkgQ3JlZWsgTG5aBDEzMDViFDEzMDUgVmFsbGV5IENyZWVrIExuigEMVmFsbGV5IENyZWVrIksbXHRuPWFkZHJlc3NcIDEzMDUgG1x0bj1ub3JtYWxcIBtcdG9pPWxocFwgJ3ZALmxpXydrUitpa18nbGUmSW4gG1x0b2k9b3J0aFwqnQIKDVVuaXRlZCBTdGF0ZXMSDVVuaXRlZCBTdGF0ZXMaCE1pc3NvdXJpIghNaXNzb3VyaSoMQm9vbmUgQ291bnR5MiMbXHRvaT1saHBcIGskLidsXm0uYmkuJCAbXHRvaT1vcnRoXEIMVmFsbGV5IENyZWVrUisbXHRvaT1saHBcICd2QC5saV8na1IraWtfJ2xlJkluIBtcdG9pPW9ydGhcWh8bXHRuPWFkZHJlc3NcIDEzMDUgG1x0bj1ub3JtYWxcYksbXHRuPWFkZHJlc3NcIDEzMDUgG1x0bj1ub3JtYWxcIBtcdG9pPWxocFwgJ3ZALmxpXydrUitpa18nbGUmSW4gG1x0b2k9b3J0aFyKAQxWYWxsZXkgQ3JlZWs6JnokMgxrJC4nbF5tLmJpLiRSFCd2QC5saV8na1IraWtfJ2xlJkluogYxEg9WYWxsZXkgQ3JlZWsgTG4qHjEzMDUgVmFsbGV5IENyZWVrIExuLCBDb2x1bWJpYWABIu0ECAEQADABQigKJgg5SABSHQoFZW4tVVMaFDEzMDUgVmFsbGV5IENyZWVrIExumAEDWrgEErUEcGxhY2VSZXF1ZXN0PUNoY0tGV052YlM1RFlYSnZZa0Z3Y0hNdWFXNVNiM1YwWlRnQlF2NENDdnNDR2pBeE16QTFJRlpoYkd4bGVTQkRjbVZsYXlCTWJpQkRiMngxYldKcFlTd2dUVThzSUZWdWFYUmxaQ0JUZEdGMFpYTWlKZ29rS1NocktKQ2pkVU5BTVJReFRjNUJFMWZBT1RBY3N6aVZmVU5BUWV1ZnpLVlpFRmZBT3A0Q0NpNEtGREV6TURVZ1ZtRnNiR1Y1SUVOeVpXVnJJRXh1RWdRSUFCQUVFZ1FJQlJBR0VnUUlEQkFGRWdRSUVoQUNFaWtLRzBOdmJIVnRZbWxoTENCTlR5d2dWVzVwZEdWa0lGTjBZWFJsY3hJRUNBQVFDQklFQ0FvUUFoZ0NNa2NLRWdrQUFBQUFmbnREUUJFQUFBQkFiUkJYd0JDWWxLKzZqdXJJcWpJZ09Ta0FBQUFBQUFCNVFJTHhCQVF4TXpBMWlQRUVNWnJ4QkFKVlU2RHhCQUN5OFFRQXV2RUVBR0lwQ2ljeE16QTFJRlpoYkd4bGVTQkRjbVZsYXlCTWJpd2dRMjlzZFcxaWFXRWdUVThnTmpVeU1ES0M4UVFuTVRNd05TQldZV3hzWlhrZ1EzSmxaV3NnVEc0c0lFTnZiSFZ0WW1saElFMVBJRFkxTWpBeWlQRUVBTnJ4QkJZSkFBQUFBUDNPQTBBWkFBQUFBQUNBY2tBZ0FTZ0Q2dkVFQUE9PWABIj4IAhAAMAFCNBIyChIJg55y8Vx7Q0ARg63InnMQV8AiEQoPQW1lcmljYS9DaGljYWdvMAA6BwoFMjkwMTlgASJcCAQQADABQlIiUAomKXDtozlOe0NAMajKrBV9EFfAOZZPQalre0NAQV6Q5CdqEFfAUAQSJinEs1/DyXpDQDHy0LFD0hBXwDlCiYUf8HtDQEEUit/5FBBXwFAEYAEo2TI6JwolEhIJg55y8Vx7Q0ARg63InnMQV8AY2TIgwZTAi42msrvGAZADAcAMAdITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNZTUtNYXBJdGVtohUXWE5TT2JqZWN0AAgAEQAaACQAKQAyADcASQBMAFEAUwBYAF4AYwBoAG8AcQBzBsQGyQbUBt0G5wbqAAAAAAAAAgEAAAAAAAAAGAAAAAAAAAAAAAAAAAAABvM=</type>
+		</rtept>
+	</rte>
+	<trk>
+		<name>Trk-Rte-OneEbentyNine</name>
+		<trkseg>
+			<trkpt lat="38.954972" lon="-92.373098">
+			</trkpt>
+			<trkpt lat="38.955296" lon="-92.373001">
+			</trkpt>
+			<trkpt lat="38.955171" lon="-92.371513">
+			</trkpt>
+			<trkpt lat="38.953863" lon="-92.371316">
+			</trkpt>
+			<trkpt lat="38.966926" lon="-92.371047">
+			</trkpt>
+			<trkpt lat="38.968591" lon="-92.371222">
+			</trkpt>
+			<trkpt lat="38.968843" lon="-92.371511">
+			</trkpt>
+			<trkpt lat="38.970943" lon="-92.401617">
+			</trkpt>
+			<trkpt lat="38.974141" lon="-92.510807">
+			</trkpt>
+			<trkpt lat="38.974062" lon="-92.515009">
+			</trkpt>
+			<trkpt lat="38.973564" lon="-92.518896">
+			</trkpt>
+			<trkpt lat="38.972771" lon="-92.522268">
+			</trkpt>
+			<trkpt lat="38.971544" lon="-92.525799">
+			</trkpt>
+			<trkpt lat="38.969735" lon="-92.529445">
+			</trkpt>
+			<trkpt lat="38.942124" lon="-92.572714">
+			</trkpt>
+			<trkpt lat="38.940990" lon="-92.574831">
+			</trkpt>
+			<trkpt lat="38.940286" lon="-92.577393">
+			</trkpt>
+			<trkpt lat="38.940115" lon="-92.579694">
+			</trkpt>
+			<trkpt lat="38.939825" lon="-92.593400">
+			</trkpt>
+			<trkpt lat="38.940186" lon="-92.597214">
+			</trkpt>
+			<trkpt lat="38.935332" lon="-92.594563">
+			</trkpt>
+			<trkpt lat="38.934030" lon="-92.593565">
+			</trkpt>
+			<trkpt lat="38.930204" lon="-92.586898">
+			</trkpt>
+			<trkpt lat="38.926537" lon="-92.583626">
+			</trkpt>
+			<trkpt lat="38.924488" lon="-92.579808">
+			</trkpt>
+			<trkpt lat="38.923876" lon="-92.578113">
+			</trkpt>
+			<trkpt lat="38.923647" lon="-92.576324">
+			</trkpt>
+			<trkpt lat="38.924415" lon="-92.570847">
+			</trkpt>
+			<trkpt lat="38.924295" lon="-92.568698">
+			</trkpt>
+			<trkpt lat="38.922893" lon="-92.561994">
+			</trkpt>
+			<trkpt lat="38.919540" lon="-92.555209">
+			</trkpt>
+			<trkpt lat="38.919061" lon="-92.553719">
+			</trkpt>
+			<trkpt lat="38.918799" lon="-92.551565">
+			</trkpt>
+			<trkpt lat="38.919005" lon="-92.548008">
+			</trkpt>
+			<trkpt lat="38.918758" lon="-92.546395">
+			</trkpt>
+			<trkpt lat="38.918193" lon="-92.545102">
+			</trkpt>
+			<trkpt lat="38.916494" lon="-92.543030">
+			</trkpt>
+			<trkpt lat="38.915699" lon="-92.541483">
+			</trkpt>
+			<trkpt lat="38.913647" lon="-92.532670">
+			</trkpt>
+			<trkpt lat="38.913038" lon="-92.531088">
+			</trkpt>
+			<trkpt lat="38.912249" lon="-92.529919">
+			</trkpt>
+			<trkpt lat="38.908389" lon="-92.525752">
+			</trkpt>
+			<trkpt lat="38.907155" lon="-92.522813">
+			</trkpt>
+			<trkpt lat="38.898008" lon="-92.525759">
+			</trkpt>
+			<trkpt lat="38.896030" lon="-92.524921">
+			</trkpt>
+			<trkpt lat="38.894233" lon="-92.524887">
+			</trkpt>
+			<trkpt lat="38.891005" lon="-92.523152">
+			</trkpt>
+			<trkpt lat="38.888527" lon="-92.524157">
+			</trkpt>
+			<trkpt lat="38.886362" lon="-92.524307">
+			</trkpt>
+			<trkpt lat="38.885153" lon="-92.524995">
+			</trkpt>
+			<trkpt lat="38.883727" lon="-92.524616">
+			</trkpt>
+			<trkpt lat="38.881369" lon="-92.524566">
+			</trkpt>
+			<trkpt lat="38.879197" lon="-92.525430">
+			</trkpt>
+			<trkpt lat="38.878318" lon="-92.528015">
+			</trkpt>
+			<trkpt lat="38.877285" lon="-92.528741">
+			</trkpt>
+			<trkpt lat="38.874555" lon="-92.527461">
+			</trkpt>
+			<trkpt lat="38.869114" lon="-92.527745">
+			</trkpt>
+			<trkpt lat="38.866725" lon="-92.528841">
+			</trkpt>
+			<trkpt lat="38.861647" lon="-92.528802">
+			</trkpt>
+			<trkpt lat="38.860751" lon="-92.528200">
+			</trkpt>
+			<trkpt lat="38.860132" lon="-92.525516">
+			</trkpt>
+			<trkpt lat="38.857469" lon="-92.521861">
+			</trkpt>
+			<trkpt lat="38.855240" lon="-92.520171">
+			</trkpt>
+			<trkpt lat="38.847774" lon="-92.512735">
+			</trkpt>
+			<trkpt lat="38.844974" lon="-92.511643">
+			</trkpt>
+			<trkpt lat="38.840736" lon="-92.508444">
+			</trkpt>
+			<trkpt lat="38.839162" lon="-92.505584">
+			</trkpt>
+			<trkpt lat="38.837319" lon="-92.504449">
+			</trkpt>
+			<trkpt lat="38.836364" lon="-92.504276">
+			</trkpt>
+			<trkpt lat="38.835360" lon="-92.504678">
+			</trkpt>
+			<trkpt lat="38.833603" lon="-92.507080">
+			</trkpt>
+			<trkpt lat="38.829698" lon="-92.510222">
+			</trkpt>
+			<trkpt lat="38.822488" lon="-92.508487">
+			</trkpt>
+			<trkpt lat="38.822381" lon="-92.510091">
+			</trkpt>
+			<trkpt lat="38.821493" lon="-92.511043">
+			</trkpt>
+			<trkpt lat="38.808549" lon="-92.511395">
+			</trkpt>
+			<trkpt lat="38.807822" lon="-92.511751">
+			</trkpt>
+			<trkpt lat="38.806887" lon="-92.513183">
+			</trkpt>
+			<trkpt lat="38.782987" lon="-92.498390">
+			</trkpt>
+			<trkpt lat="38.773139" lon="-92.493991">
+			</trkpt>
+			<trkpt lat="38.765723" lon="-92.494097">
+			</trkpt>
+			<trkpt lat="38.764211" lon="-92.493289">
+			</trkpt>
+			<trkpt lat="38.763507" lon="-92.492011">
+			</trkpt>
+			<trkpt lat="38.764234" lon="-92.488674">
+			</trkpt>
+			<trkpt lat="38.765882" lon="-92.483168">
+			</trkpt>
+			<trkpt lat="38.764229" lon="-92.470251">
+			</trkpt>
+			<trkpt lat="38.762218" lon="-92.459349">
+			</trkpt>
+			<trkpt lat="38.762194" lon="-92.457182">
+			</trkpt>
+			<trkpt lat="38.763106" lon="-92.447926">
+			</trkpt>
+			<trkpt lat="38.761827" lon="-92.445282">
+			</trkpt>
+			<trkpt lat="38.761222" lon="-92.443248">
+			</trkpt>
+			<trkpt lat="38.759746" lon="-92.441279">
+			</trkpt>
+			<trkpt lat="38.757979" lon="-92.439896">
+			</trkpt>
+			<trkpt lat="38.755653" lon="-92.438777">
+			</trkpt>
+			<trkpt lat="38.754753" lon="-92.437354">
+			</trkpt>
+			<trkpt lat="38.754707" lon="-92.436226">
+			</trkpt>
+			<trkpt lat="38.755566" lon="-92.433706">
+			</trkpt>
+			<trkpt lat="38.754857" lon="-92.430908">
+			</trkpt>
+			<trkpt lat="38.755858" lon="-92.421592">
+			</trkpt>
+			<trkpt lat="38.755814" lon="-92.420289">
+			</trkpt>
+			<trkpt lat="38.755513" lon="-92.418638">
+			</trkpt>
+			<trkpt lat="38.752961" lon="-92.411650">
+			</trkpt>
+			<trkpt lat="38.751512" lon="-92.409869">
+			</trkpt>
+			<trkpt lat="38.746549" lon="-92.408209">
+			</trkpt>
+			<trkpt lat="38.743201" lon="-92.407639">
+			</trkpt>
+			<trkpt lat="38.739871" lon="-92.406540">
+			</trkpt>
+			<trkpt lat="38.734755" lon="-92.406875">
+			</trkpt>
+			<trkpt lat="38.733561" lon="-92.406602">
+			</trkpt>
+			<trkpt lat="38.712136" lon="-92.391693">
+			</trkpt>
+			<trkpt lat="38.710976" lon="-92.390507">
+			</trkpt>
+			<trkpt lat="38.710021" lon="-92.388654">
+			</trkpt>
+			<trkpt lat="38.708915" lon="-92.382604">
+			</trkpt>
+			<trkpt lat="38.706958" lon="-92.379853">
+			</trkpt>
+			<trkpt lat="38.706464" lon="-92.378251">
+			</trkpt>
+			<trkpt lat="38.705396" lon="-92.376788">
+			</trkpt>
+			<trkpt lat="38.703980" lon="-92.375704">
+			</trkpt>
+			<trkpt lat="38.699166" lon="-92.370445">
+			</trkpt>
+			<trkpt lat="38.697414" lon="-92.370267">
+			</trkpt>
+			<trkpt lat="38.695432" lon="-92.369560">
+			</trkpt>
+			<trkpt lat="38.693765" lon="-92.367956">
+			</trkpt>
+			<trkpt lat="38.691561" lon="-92.366436">
+			</trkpt>
+			<trkpt lat="38.687734" lon="-92.365296">
+			</trkpt>
+			<trkpt lat="38.685240" lon="-92.365633">
+			</trkpt>
+			<trkpt lat="38.683227" lon="-92.365293">
+			</trkpt>
+			<trkpt lat="38.682405" lon="-92.365963">
+			</trkpt>
+			<trkpt lat="38.679221" lon="-92.372451">
+			</trkpt>
+			<trkpt lat="38.678615" lon="-92.373234">
+			</trkpt>
+			<trkpt lat="38.676672" lon="-92.373775">
+			</trkpt>
+			<trkpt lat="38.674899" lon="-92.373461">
+			</trkpt>
+			<trkpt lat="38.673836" lon="-92.372660">
+			</trkpt>
+			<trkpt lat="38.673222" lon="-92.370845">
+			</trkpt>
+			<trkpt lat="38.672895" lon="-92.360290">
+			</trkpt>
+			<trkpt lat="38.671958" lon="-92.359044">
+			</trkpt>
+			<trkpt lat="38.671154" lon="-92.358800">
+			</trkpt>
+			<trkpt lat="38.670289" lon="-92.359033">
+			</trkpt>
+			<trkpt lat="38.669366" lon="-92.358224">
+			</trkpt>
+			<trkpt lat="38.666505" lon="-92.353166">
+			</trkpt>
+			<trkpt lat="38.665795" lon="-92.352561">
+			</trkpt>
+			<trkpt lat="38.664260" lon="-92.351963">
+			</trkpt>
+			<trkpt lat="38.660957" lon="-92.347366">
+			</trkpt>
+			<trkpt lat="38.658932" lon="-92.333717">
+			</trkpt>
+			<trkpt lat="38.657920" lon="-92.329699">
+			</trkpt>
+			<trkpt lat="38.654871" lon="-92.322428">
+			</trkpt>
+			<trkpt lat="38.650475" lon="-92.316971">
+			</trkpt>
+			<trkpt lat="38.649015" lon="-92.315728">
+			</trkpt>
+			<trkpt lat="38.648614" lon="-92.315046">
+			</trkpt>
+			<trkpt lat="38.647911" lon="-92.307803">
+			</trkpt>
+			<trkpt lat="38.645204" lon="-92.303126">
+			</trkpt>
+			<trkpt lat="38.644766" lon="-92.301962">
+			</trkpt>
+			<trkpt lat="38.644754" lon="-92.300395">
+			</trkpt>
+			<trkpt lat="38.645432" lon="-92.297914">
+			</trkpt>
+			<trkpt lat="38.645222" lon="-92.296143">
+			</trkpt>
+			<trkpt lat="38.636015" lon="-92.279670">
+			</trkpt>
+			<trkpt lat="38.635227" lon="-92.275605">
+			</trkpt>
+			<trkpt lat="38.634165" lon="-92.272121">
+			</trkpt>
+			<trkpt lat="38.633819" lon="-92.267761">
+			</trkpt>
+			<trkpt lat="38.631697" lon="-92.263962">
+			</trkpt>
+			<trkpt lat="38.629551" lon="-92.260839">
+			</trkpt>
+			<trkpt lat="38.628066" lon="-92.256186">
+			</trkpt>
+			<trkpt lat="38.627565" lon="-92.252415">
+			</trkpt>
+			<trkpt lat="38.626770" lon="-92.251404">
+			</trkpt>
+			<trkpt lat="38.624954" lon="-92.250716">
+			</trkpt>
+			<trkpt lat="38.623892" lon="-92.249553">
+			</trkpt>
+			<trkpt lat="38.621371" lon="-92.242463">
+			</trkpt>
+			<trkpt lat="38.619522" lon="-92.239378">
+			</trkpt>
+			<trkpt lat="38.617120" lon="-92.232621">
+			</trkpt>
+			<trkpt lat="38.615778" lon="-92.230536">
+			</trkpt>
+			<trkpt lat="38.614676" lon="-92.227942">
+			</trkpt>
+			<trkpt lat="38.611571" lon="-92.224934">
+			</trkpt>
+			<trkpt lat="38.609253" lon="-92.223920">
+			</trkpt>
+			<trkpt lat="38.601210" lon="-92.224255">
+			</trkpt>
+			<trkpt lat="38.597965" lon="-92.224497">
+			</trkpt>
+			<trkpt lat="38.594945" lon="-92.225798">
+			</trkpt>
+			<trkpt lat="38.594945" lon="-92.224167">
+			</trkpt>
+			<trkpt lat="38.593676" lon="-92.218558">
+			</trkpt>
+			<trkpt lat="38.592367" lon="-92.215192">
+			</trkpt>
+			<trkpt lat="38.589045" lon="-92.209258">
+			</trkpt>
+			<trkpt lat="38.587426" lon="-92.203085">
+			</trkpt>
+			<trkpt lat="38.585653" lon="-92.198592">
+			</trkpt>
+			<trkpt lat="38.584735" lon="-92.192933">
+			</trkpt>
+			<trkpt lat="38.582972" lon="-92.188134">
+			</trkpt>
+			<trkpt lat="38.582998" lon="-92.185104">
+			</trkpt>
+			<trkpt lat="38.583393" lon="-92.183919">
+			</trkpt>
+			<trkpt lat="38.582322" lon="-92.182428">
+			</trkpt>
+			<trkpt lat="38.583313" lon="-92.182266">
+			</trkpt>
+			<trkpt lat="38.584257" lon="-92.181704">
+			</trkpt>
+			<trkpt lat="38.600761" lon="-92.165890">
+			</trkpt>
+			<trkpt lat="38.601309" lon="-92.164846">
+			</trkpt>
+			<trkpt lat="38.600984" lon="-92.163968">
+			</trkpt>
+			<trkpt lat="38.600184" lon="-92.164105">
+			</trkpt>
+			<trkpt lat="38.600000" lon="-92.165385">
+			</trkpt>
+			<trkpt lat="38.603225" lon="-92.177185">
+			</trkpt>
+			<trkpt lat="38.604413" lon="-92.179992">
+			</trkpt>
+			<trkpt lat="38.606207" lon="-92.182092">
+			</trkpt>
+			<trkpt lat="38.609958" lon="-92.184773">
+			</trkpt>
+			<trkpt lat="38.630701" lon="-92.196184">
+			</trkpt>
+			<trkpt lat="38.632478" lon="-92.196726">
+			</trkpt>
+			<trkpt lat="38.635928" lon="-92.196776">
+			</trkpt>
+			<trkpt lat="38.637490" lon="-92.197171">
+			</trkpt>
+			<trkpt lat="38.648770" lon="-92.203173">
+			</trkpt>
+			<trkpt lat="38.650031" lon="-92.204108">
+			</trkpt>
+			<trkpt lat="38.650998" lon="-92.205634">
+			</trkpt>
+			<trkpt lat="38.652994" lon="-92.211189">
+			</trkpt>
+			<trkpt lat="38.658742" lon="-92.221572">
+			</trkpt>
+			<trkpt lat="38.660911" lon="-92.224013">
+			</trkpt>
+			<trkpt lat="38.667024" lon="-92.228308">
+			</trkpt>
+			<trkpt lat="38.668354" lon="-92.229653">
+			</trkpt>
+			<trkpt lat="38.669466" lon="-92.231393">
+			</trkpt>
+			<trkpt lat="38.679028" lon="-92.251127">
+			</trkpt>
+			<trkpt lat="38.680269" lon="-92.252800">
+			</trkpt>
+			<trkpt lat="38.681347" lon="-92.253744">
+			</trkpt>
+			<trkpt lat="38.683801" lon="-92.254887">
+			</trkpt>
+			<trkpt lat="38.734496" lon="-92.253822">
+			</trkpt>
+			<trkpt lat="38.774320" lon="-92.252085">
+			</trkpt>
+			<trkpt lat="38.779781" lon="-92.252354">
+			</trkpt>
+			<trkpt lat="38.802356" lon="-92.251205">
+			</trkpt>
+			<trkpt lat="38.819950" lon="-92.251270">
+			</trkpt>
+			<trkpt lat="38.822981" lon="-92.250974">
+			</trkpt>
+			<trkpt lat="38.833852" lon="-92.248988">
+			</trkpt>
+			<trkpt lat="38.860089" lon="-92.249216">
+			</trkpt>
+			<trkpt lat="38.873617" lon="-92.252671">
+			</trkpt>
+			<trkpt lat="38.883619" lon="-92.260231">
+			</trkpt>
+			<trkpt lat="38.891906" lon="-92.271089">
+			</trkpt>
+			<trkpt lat="38.903966" lon="-92.289277">
+			</trkpt>
+			<trkpt lat="38.905845" lon="-92.291312">
+			</trkpt>
+			<trkpt lat="38.907209" lon="-92.292368">
+			</trkpt>
+			<trkpt lat="38.908653" lon="-92.293048">
+			</trkpt>
+			<trkpt lat="38.910225" lon="-92.293348">
+			</trkpt>
+			<trkpt lat="38.933559" lon="-92.294850">
+			</trkpt>
+			<trkpt lat="38.953664" lon="-92.292660">
+			</trkpt>
+			<trkpt lat="38.955807" lon="-92.292192">
+			</trkpt>
+			<trkpt lat="38.959398" lon="-92.292326">
+			</trkpt>
+			<trkpt lat="38.963236" lon="-92.291903">
+			</trkpt>
+			<trkpt lat="38.963519" lon="-92.291633">
+			</trkpt>
+			<trkpt lat="38.963928" lon="-92.286001">
+			</trkpt>
+			<trkpt lat="38.963939" lon="-92.281335">
+			</trkpt>
+			<trkpt lat="38.963641" lon="-92.270424">
+			</trkpt>
+			<trkpt lat="38.963375" lon="-92.267845">
+			</trkpt>
+			<trkpt lat="38.963068" lon="-92.267272">
+			</trkpt>
+			<trkpt lat="38.963520" lon="-92.265551">
+			</trkpt>
+			<trkpt lat="38.963175" lon="-92.256797">
+			</trkpt>
+			<trkpt lat="38.963606" lon="-92.256779">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+
