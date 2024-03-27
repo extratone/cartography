@@ -1,0 +1,10 @@
+{{short description|Group of binary-to-text encoding schemes using 64 symbols (plus padding)}}
+In [[computer programming]], '''Base64''' is a group of [[binary-to-text encoding]] schemes that transforms [[binary data]] into a sequence of [[Graphic character|printable]] characters, limited to a set of 64 unique characters.  More specifically, the source binary data is taken 6 bits at a time, then this group of 6 bits is mapped to one of 64 unique characters.
+
+As with all binary-to-text encoding schemes, Base64 is designed to carry data stored in binary formats across channels that only reliably support text content. Base64 is particularly prevalent on the [[World Wide Web]]<ref>{{cite web |title= Base64 encoding and decoding – Web APIs |url= https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding |publisher= MDN Web Docs |archive-url= https://web.archive.org/web/20141111151440/https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding |archive-date= 2014-11-11 |url-status=live}}</ref> where one of its uses is the ability to embed [[image files]] or other binary assets inside textual assets such as [[HTML]] and [[CSS]] files.<ref>{{cite web |title= When to base64 encode images (and when not to) |date= 28 August 2011 |url=https://www.davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/ |archive-url= https://web.archive.org/web/20230829143759/https://www.davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/ |archive-date=2023-08-29 |url-status=live}}</ref>
+
+Base64 is also widely used for sending [[e-mail]] attachments, because [[Simple Mail Transfer Protocol|SMTP]]&nbsp;– in its original form&nbsp;– was designed to transport [[7-bit ASCII]] characters only. Encoding an attachment as Base64 before sending, and then decoding when received, assures older SMTP servers will not interfere with the attachment. 
+
+Base64 encoding causes an overhead of 33–37% relative to the size of the original binary data (33% by the encoding itself; up to 4% more by the inserted line breaks).
+
+{{TOC limit|3}}
